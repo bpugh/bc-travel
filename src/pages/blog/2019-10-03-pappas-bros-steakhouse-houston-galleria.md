@@ -4,7 +4,8 @@ title: Pappas Bros. Steakhouse Houston Galleria
 date: 2019-08-18T17:04:51.165Z
 description: ' '
 featuredpost: true
-featuredimage: /img/chrisandipappas.webp
+featuredimage: >-
+  https://res.cloudinary.com/bctravel/image/upload/c_scale,w_1648/v1570125613/IMG_20190817_184427_y7kwmr.jpg
 tags:
   - food houston
 ---
@@ -13,11 +14,11 @@ Houston restaurant week(s) is in full swing! [https://www.houstonrestaurantweeks
 
 Going from August 1 until September 2nd, it's actually an entire month long. Brandon, Nathan, Liz and I tried a Thai fusion restaurant called Decatur a few weeks ago and it had amazeballs food but terrible service. This weekend, Brandon and I celebrated an early 3 year anniversary at Pappas Bros Steakhouse in the Houston Galleria area.
 
-![Early three year anniversary dinner](https://res.cloudinary.com/bctravel/image/upload/v1570125613/IMG_20190817_184427_y7kwmr.jpg)
+![Early three year anniversary dinner](https://res.cloudinary.com/bctravel/image/upload/c_scale,w_489/v1570125613/IMG_20190817_184427_y7kwmr.jpg)
 
 Unlike Decatur, service at Pappas was prompt and began with the complimentary valet opening our doors and ushering us towards the host. We got there a wee bit early so she asked us to wait in the lounge/bar area. There were plenty of open bar tables and we sat at a white linen high top as gorgeous piano music permeated the room, from a pianist playing 7 feet away. A waitress almost immediately appeared, giving comprehensive recommendations as to which cocktail to choose when I asked. I settled on the "burnt caramel old fashioned" and was so glad I listened to her recs. I enjoyed the live piano music so much that when the staff came to get us for our table, it felt too soon.
 
-![](https://res.cloudinary.com/bctravel/image/upload/v1570125843/EFFECTS_r1nrm0.jpg "Main course")
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,w_327/v1570125843/EFFECTS_r1nrm0.jpg "Main course")
 
 As we entered the main dining area, we were awed by how beautiful the decor was. My imagination quickly took over and I felt like I was in the dining room of the titanic.
 
