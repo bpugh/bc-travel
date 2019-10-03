@@ -2,8 +2,7 @@
 templateKey: blog-post
 title: Pappas Bros. Steakhouse Houston Galleria
 date: 2019-08-18T17:04:51.165Z
-description: |
-  Houston restaurant week(s) is in full swing!
+description: ' '
 featuredpost: true
 featuredimage: /img/chrisandipappas.webp
 tags:
