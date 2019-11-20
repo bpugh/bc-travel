@@ -10,6 +10,7 @@ featuredpost: false
 featuredimage: /img/img_20191112_114234.jpg
 tags:
   - kyoto
+  - food
 ---
  
 November 11-18, 2019 
