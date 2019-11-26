@@ -10,7 +10,7 @@ tags:
 ---
 We upgraded to a room with an amazing view.
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,w_1770/v1574779478/IMG_20191126_000258_pykfr7.jpg "View from our room")
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_400/v1574779478/IMG_20191126_000258_pykfr7.jpg "View from our room")
 
 We later went to a starbucks reserve
 
