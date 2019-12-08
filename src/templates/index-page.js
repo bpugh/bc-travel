@@ -21,7 +21,7 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
+        backgroundPosition: `center`,
         backgroundAttachment: `fixed`,
       }}
     >
@@ -38,9 +38,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow: '#209CEE 0.5rem 0px 0px, #209CEE -0.5rem 0px 0px',
-            backgroundColor: '#209CEE',
-            color: 'white',
+            color: '#352d2d',
             lineHeight: '1',
             padding: '0.25em',
           }}
@@ -50,9 +48,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow: '#209CEE 0.5rem 0px 0px, #209CEE -0.5rem 0px 0px',
-            backgroundColor: '#209CEE',
-            color: 'white',
+            color: '#352d2d',
             lineHeight: '1',
             padding: '0.25em',
           }}
@@ -147,21 +143,6 @@ export const pageQuery = graphql`
         heading
         subheading
         mainpitch {
-          description
-        }
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
           description
         }
       }
