@@ -7,7 +7,9 @@ description: >-
   wanted to see, and now that we've onsen-ed our hearts out in Hakone and
   Kurokawa, we are back in Kyoto and it feels like a different city.
 featuredpost: false
-featuredimage: /img/img_20191112_114234.jpg
+featuredimage: >-
+  https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1575797824/IMG_20191112_114335_hxvndu.jpg
+
 tags:
   - kyoto
   - food

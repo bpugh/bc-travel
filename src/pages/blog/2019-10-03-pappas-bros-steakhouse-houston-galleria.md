@@ -4,7 +4,8 @@ title: Pappas Bros. Steakhouse Houston Galleria
 date: 2019-08-18T17:04:51.165Z
 description: ' '
 featuredpost: true
-featuredimage: /img/chrisandipappas.webp
+featuredimage: >-
+  https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1575799027/4a8d9e_4fca8eb673324792aebf5fe8e4dc75a8_mv2_eijvqp.webp
 tags:
   - food
   - houston
