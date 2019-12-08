@@ -11,6 +11,16 @@ backend:
 media_folder: static/img
 public_folder: /img
 publish_mode: editorial_workflow
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: bctravel
+    api_key: 771396676857412
+    default_transformations:
+      -   - fetch_format: auto
+            width: 1080
+            quality: auto
+            crop: scale
 
 collections:
   - name: "blog"
@@ -23,8 +33,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "Featured Post", name: "featuredpost", widget: "boolean"}
-      - {label: "Featured Image", name: "featuredimage", widget: image}
+      - {label: "Featured Post", name: "featuredpost", widget: "boolean", required: false}
+      - {label: "Featured Image", name: "featuredimage", widget: image, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
 
