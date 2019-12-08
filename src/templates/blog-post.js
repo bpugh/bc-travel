@@ -10,7 +10,9 @@ export const BlogPostTemplate = ({
   content,
   contentComponent,
   description,
+  timeToRead,
   tags,
+  date,
   title,
   helmet,
 }) => {
@@ -25,6 +27,7 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <p><small>{date} <span> &bull; </span> {timeToRead} min read</small></p>
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -50,6 +53,7 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
+  timeToRead: PropTypes.number,
   title: PropTypes.string,
   helmet: PropTypes.object,
 }
@@ -63,6 +67,8 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        timeToRead={post.timeToRead}
+        date={post.frontmatter.date}
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
@@ -98,6 +104,7 @@ export const pageQuery = graphql`
         description
         tags
       }
+      timeToRead
     }
   }
 `

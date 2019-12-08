@@ -37,6 +37,7 @@ class BlogRoll extends React.Component {
                       {post.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
+                    <small>{post.timeToRead} min read</small>
                     <span className="subtitle is-size-5 is-block">
                       {post.frontmatter.date}
                     </span>
@@ -81,6 +82,7 @@ export default () => (
               fields {
                 slug
               }
+              timeToRead
               frontmatter {
                 title
                 templateKey
