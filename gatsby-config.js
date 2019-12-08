@@ -70,6 +70,12 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-plugin-netlify-cache",
+      options: {
+        cachePublic: false
+      }
+    },
+    {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
         modulePath: `${__dirname}/src/cms/cms.js`,
