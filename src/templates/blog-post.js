@@ -28,7 +28,6 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p><small>{date} <span> &bull; </span> {timeToRead} min read</small></p>
-            <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
