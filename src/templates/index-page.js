@@ -74,10 +74,23 @@ export const IndexPageTemplate = ({
                   </h3>
                   <HomePageBlogRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
+                    <Link className="btn has-text-primary" to="/blog">
                       Read more
                     </Link>
                   </div>
+                </div>
+                <div className="subscription-form">
+                  <iframe
+                    scrolling="no"
+                    style={{
+                      width: '100%!important',
+                      height: '220px',
+                      width: '100%',
+                      maxWidth: '500px',
+                      border: '1px #ccc solid !important',
+                    }}
+                    src="https://buttondown.email/bcadventures?as_embed=true"
+                  />
                 </div>
               </div>
             </div>
