@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "bc-travels",
+  "description": "BC Adventures blog",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Brandon Pugh",
   "dependencies": {
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
