@@ -7,7 +7,7 @@ description: >-
   We had a great time visiting Fushimi Inari again, eating good food, and catching up with her. Then we took another Shinkansen to Tokyo.
 featuredpost: false
 featuredimage: >-
-  https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1575797824/IMG_20191112_114335_hxvndu.jpg
+  https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1575709343/IMG_1831_t3jedl.heic
 
 tags:
   - tokyo
