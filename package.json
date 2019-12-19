@@ -5,6 +5,7 @@
   "author": "Brandon Pugh",
   "dependencies": {
     "bulma": "^0.8.0",
+    "cloudinary-core": "^2.8.0",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.0.23",
     "gatsby-plugin-google-analytics": "^2.1.29",
