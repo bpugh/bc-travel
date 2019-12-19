@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kobe 11/29-12/9 2019
+title: Kobe in December
 date: 2019-12-16T10:43:35.999Z
 description: >-
   Blog article about our time in Kobe 11/29-12/9, 2019: Kobe Luminarie, friends,
@@ -11,7 +11,7 @@ tags:
   - Japan
   - Kobe
 ---
-We spent 10 wonderful days in Kobe, the hometown of two of our friends, Hiromi and Marina. It was so good to see them, and we also had fun seeing the Kobe Luminarie, karaoke, eating Kobe beef, seeing Kobe's Chinatown, and going to the Osaka aquarium.
+We spent 10 wonderful days in Kobe (11/29-12/9), the hometown of two of our friends, Hiromi and Marina. It was so good to see them, and we also had fun seeing the Kobe Luminarie, karaoke, eating Kobe beef, seeing Kobe's Chinatown, and going to the Osaka aquarium.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1576493624/IMG_20191202_173458_orrul3.jpg "Reunion party with Hiromi and Marina in Kobe")
 
