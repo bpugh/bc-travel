@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import { DiscussionEmbed } from "disqus-react"
+import { DiscussionEmbed } from 'disqus-react'
 
 export const BlogPostTemplate = ({
   content,
@@ -33,7 +33,11 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p><small>{date} <span> &bull; </span> {timeToRead} min read</small></p>
+            <p>
+              <small>
+                {date} <span> &bull; </span> {timeToRead} min read
+              </small>
+            </p>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -47,7 +51,10 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
-          <DiscussionEmbed {...disqusConfig} />
+            {typeof window !== 'undefined' &&
+            window.location.href.includes('admin') ? null : (
+              <DiscussionEmbed {...disqusConfig} />
+            )}
           </div>
         </div>
       </div>
