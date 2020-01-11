@@ -8,6 +8,8 @@ featuredimage: >-
 tags:
   - family
 ---
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1578713991/IMG_1176_omdtmf.jpg "Grandma, me and Grandpa in Japan (I think Mom is taking the photo)")
+
 I struggled with the title for this. "My birthday in Bangkok"? "My grandparents"? "Goodbye"? Something more deep and obscure like talking about facets of a prism? Eventually it all seemed a bit flat, so I went with description.
 
 This morning I woke up to a text that my Grandma, Emiko Ambo, had passed away. She had dementia for years prior to this, and was at the end stages to the point of being unable to do or say much. This was not a surprise but I was still surprised at how much the news hurt despite the long gradual journey of grief in the last couple of years.
