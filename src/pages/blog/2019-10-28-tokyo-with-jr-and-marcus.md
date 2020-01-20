@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Tokyo with Jr and Marcus
+author: Chris
 date: 2019-10-28T08:25:09.176Z
 description: >-
   Spending time in Tokyo with friends

@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Austin to Seattle
+author: Chris
 date: 2019-10-12T09:25:09.176Z
 description: >-
   Our weekend in New York city and then a JAL flight to Tokyo

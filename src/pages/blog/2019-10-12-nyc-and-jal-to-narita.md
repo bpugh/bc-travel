@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: NYC and JAL to Narita
+author: Chris
 date: 2019-10-12T08:25:09.176Z
 description: >-
   Our weekend in New York city and then a JAL flight to Tokyo
