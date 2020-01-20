@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Pappas Bros. Steakhouse Houston Galleria
+author: Chris
 date: 2019-08-18T17:04:51.165Z
 description: ' '
 featuredpost: false

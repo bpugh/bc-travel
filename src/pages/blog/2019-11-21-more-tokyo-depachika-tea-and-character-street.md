@@ -2,6 +2,7 @@
 templateKey: blog-post
 title: >-
   More Tokyo: depachika, tea, and character street
+author: Chris
 date: 2019-11-21T08:25:09.176Z
 description: >-
   We had a great time visiting Fushimi Inari again, eating good food, and catching up with her. Then we took another Shinkansen to Tokyo.
