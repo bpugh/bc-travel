@@ -1,17 +1,15 @@
 const Remark = require(`remark`)
 const cloudinary = require("cloudinary-core"); 
-const plugin = require(`../`)
+const utils = require(`../../utils`)
 const remark = new Remark().data(`settings`, {
   commonmark: true,
   footnotes: true,
   pedantic: true,
 })
 
-const cloud_name = "bctravel";
-const cl = new cloudinary.Cloudinary({cloud_name, secure: true});
-
-jest.mock(`../utils/`, () => {
+jest.doMock(`../../utils/`, () => {
   return {
+    ...utils,
     getBase64Img: jest.fn().mockReturnValue(`data:image;`),
     buildResponsiveSizes: jest.fn().mockReturnValue({
       base64: `data:image;`,
@@ -26,6 +24,11 @@ jest.mock(`../utils/`, () => {
     }),
   }
 })
+
+const plugin = require(`../../`)
+
+const cloud_name = "bctravel";
+const cl = new cloudinary.Cloudinary({cloud_name, secure: true});
 
 const createNode = content => {
   const node = {
@@ -159,14 +162,20 @@ test(`it transforms images with a https scheme in markdown`, async () => {
 
 test(`it generates correct transform url`, async () => {
   const imageUrl = `https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1576493624/IMG_20191202_173458_orrul3.jpg`
-  const urlParts = imageUrl.split('/')
-  const imageName = urlParts[urlParts.length - 1]
-  const newUrl = cl.url(imageName, { width: 40, crop: 'scale'})
-  const imgUrl = cl.imageTag(imageName, { width: 40, crop: 'scale'}).toHtml();
-
-
+  const imagePath = utils.getImagePath(imageUrl)
+  const newUrl = cl.url(imagePath, { width: 40, crop: 'scale'})
 
   const expected = `https://res.cloudinary.com/bctravel/image/upload/c_scale,w_40/IMG_20191202_173458_orrul3.jpg`
+  expect(newUrl).toBe(expected)
+
+})
+
+test(`it generates correct transform url with subdirectory`, async () => {
+  const imageUrl = `https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1576493624/subdirectory/IMG_20191202_173458_orrul3.jpg`
+  const imagePath = utils.getImagePath(imageUrl)
+  const newUrl = cl.url(imagePath, { force_version: false, width: 40, crop: 'scale'})
+
+  const expected = `https://res.cloudinary.com/bctravel/image/upload/c_scale,w_40/subdirectory/IMG_20191202_173458_orrul3.jpg`
   expect(newUrl).toBe(expected)
 
 })

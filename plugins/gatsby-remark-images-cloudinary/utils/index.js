@@ -15,6 +15,12 @@ const getBase64Img = async url => {
   return base64Img
 }
 
+const getImagePath = url => {
+  const urlParts = /^.*v[\d]*\/(.*)/.exec(url);
+  const imagePath = urlParts[1];
+  return imagePath;
+}
+
 //todo: parse from url and cache
 const cloud_name = "bctravel";
 const cl = new cloudinary.Cloudinary({cloud_name, secure: true});
@@ -47,12 +53,11 @@ const buildResponsiveSizes = async ({ metadata, imageUrl, options = {} }) => {
 
   filteredSizes.push(width)
 
-  const urlParts = imageUrl.split('/')
-  const imageName = urlParts[urlParts.length - 1]
-  const base64Img = await getBase64Img(cl.url(imageName, { width: 40, crop: 'scale'}))
+  const imagePath = getImagePath(imageUrl)
+  const base64Img = await getBase64Img(cl.url(imagePath, { force_version: false, width: 40, crop: 'scale'}))
 
   const srcSet = filteredSizes
-    .map(size => `${cl.url(imageName, {width: Math.round(size), crop: 'scale'})} ${Math.round(size)}w`)
+    .map(size => `${cl.url(imagePath, {width: Math.round(size), crop: 'scale'})} ${Math.round(size)}w`)
     .join(`,\n`)
 
   // const webpSrcSet = filteredSizes
@@ -78,3 +83,4 @@ const buildResponsiveSizes = async ({ metadata, imageUrl, options = {} }) => {
 
 exports.buildResponsiveSizes = buildResponsiveSizes
 exports.getBase64Img = getBase64Img
+exports.getImagePath = getImagePath
