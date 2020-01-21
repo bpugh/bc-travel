@@ -10,7 +10,7 @@ const getBase64Img = async url => {
 
   const base64Img = `data:${
     response.headers[`content-type`]
-  };base64,${new Buffer(response.data).toString(`base64`)}`
+  };base64,${new Buffer.from(response.data).toString(`base64`)}`
 
   return base64Img
 }
