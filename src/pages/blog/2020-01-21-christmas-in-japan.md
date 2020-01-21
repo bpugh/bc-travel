@@ -10,14 +10,15 @@ tags:
   - kyoto
   - japan
 ---
-Traveling for an extended period is an incredible privilege and an amazing experience but it can get lonely at times especially during holidays like Christmas. This was the first time either of us had spent Christmas away from friends and family but overall I'd say we had a pretty great Christmas.
-Japanese people really enjoy celebrating Christmas and December tends to be chilly but not literally freezing like it was in Korea so it's a great opportunity to see how another country celebrates Christmas while at the same time it still _"feels"_ like Christmas back home.
+Traveling for an extended period is an incredible privilege and an amazing experience but it can get lonely at times especially during holidays like Christmas. This was the first time either of us had spent Christmas away from family but overall I'd say we had a pretty great Christmas.
+
+Christmas is a great time to visit Japan. It's a fun experience with some uniquely Japanese culture along with a lot of familiar festivities and traditions that remind us of back home.
 
 All the big retail stores will be majorly decked out for the holidays and will have Christmas themed discounts/combos/deals/promotions. Everywhere you go you'll hear all the classic songs playing including lots of "Last Christmas" and Mariah Carey. You can find German-style Christmas markets with all kinds of chocolates and meats. There will light displays everywhere and some cities will have huge [Illumination](/blog/2019-12-16-kobe-in-december/) displays to walk through. There are bakeries everywhere outdoing each other with their Christmas cakes and pastries and luring you in with irresistible scents of buttery bread baked beyond perfection. 
 
-We highly recommend spending Christmas in Japan.
+![Christmas display at the Osaka aquarium](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579615639/christmas/IMG_2210_ey1cdm.jpg "Christmas display at the Osaka aquarium")
 
-![Christmas display at the Osaka aquarium](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579591961/christmas/IMG_2210_rtaax3.jpg "Christmas display at the Osaka aquarium")
+![Hot chocolate at the Christmas market in Tokyo](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579591921/christmas/IMG_20191210_185302_kxxynx.jpg "Hot chocolate at the Christmas market in Tokyo")
 
 ## Back to Kyoto
 
