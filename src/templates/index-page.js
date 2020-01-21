@@ -80,17 +80,6 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="subscription-form">
-                  <iframe
-                    scrolling="no"
-                    style={{
-                      width: '100%!important',
-                      height: '220px',
-                      width: '100%',
-                      maxWidth: '500px',
-                      border: '1px #ccc solid !important',
-                    }}
-                    src="https://buttondown.email/bcadventures?as_embed=true"
-                  />
                 </div>
               </div>
             </div>
