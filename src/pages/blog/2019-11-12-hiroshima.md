@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Hiroshima
+author: Chris
 date: 2019-11-12T08:25:09.176Z
 description: >-
   Our weekend in Hiroshima

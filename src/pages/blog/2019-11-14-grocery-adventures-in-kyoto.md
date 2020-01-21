@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Grocery adventures in Kyoto
+author: Chris
 date: 2019-11-14T08:25:09.176Z
 description: >-
   Now that we've seen many of the touristy sites in Tokyo and Kyoto that we

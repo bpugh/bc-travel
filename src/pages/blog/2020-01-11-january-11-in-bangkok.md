@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: January 11 in Bangkok
+author: Chris
 date: 2020-01-11T03:41:46.492Z
 description: January 11 in Bangkok
 featuredimage: >-

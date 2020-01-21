@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Kobe in December
+author: Chris
 date: 2019-12-16T10:43:35.999Z
 description: >-
   Blog article about our time in Kobe 11/29-12/9, 2019: Kobe Luminarie, friends,
