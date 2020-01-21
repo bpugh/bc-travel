@@ -11,7 +11,7 @@ tags:
   - japan
 ---
 Traveling for an extended period is an incredible privilege and an amazing experience but it can get lonely at times especially during holidays like Christmas. This was the first time either of us had spent Christmas away from friends and family but overall I'd say we had a pretty great Christmas. 
-Japanese people really enjoy celebrating Christmas and December tends to be chilly but not literally freezing like it was in Korea so it's a great opportunity to see how another country celebrates Christmas while at the same time it still "feels" like Christmas back home. 
+Japanese people really enjoy celebrating Christmas and December tends to be chilly but not literally freezing like it was in Korea so it's a great opportunity to see how another country celebrates Christmas while at the same time it still _"feels"_ like Christmas back home. 
 
 All the big retail stores will be majorly decked out for the holidays and will have Christmas themed discounts/combos/deals/promotions. Everywhere you go you'll hear all the classic songs playing including lots of "Last Christmas" and Mariah Carey. You can find German-style Christmas markets with all kinds of chocolates and meats. There will light displays everywhere and some cities will have huge \[Illumination] displays to walk through. There are bakeries everywhere outdoing each other with their Christmas cakes and pastries and luring you in with irresistible scents of buttery bread baked beyond perfection. 
 
@@ -54,7 +54,7 @@ The following day we all went to see [Kinkakuji](https://www.japan-guide.com/e/e
 
 ![Group selfie in front of the Golden Pavilion](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579592035/christmas/MVIMG_20191223_121645_sdtoda.jpg "Group selfie in front of the Golden Pavilion")
 
-On Christmas day called/video chatted with friends and family (and played some world of Warcraft with Chris' dad) and spent a cozy day at home enjoying each other's company and being grateful for everything we have and this amazing opportunity. 
+On Christmas day we called/video chatted with friends and family (and played some world of Warcraft with Chris' dad) and spent a cozy day at home enjoying each other's company and being grateful for everything we have and this amazing opportunity. 
 
 For dinner, we had some deliciously comforting ramen at [Ichiran Ramen](https://jw-webmagazine.com/ichiran-ramen-how-to-skip-the-line-at-ichiran-ramen-shibuya-32396eadc25a/) then strolled around Kyoto and grabbed some coffee from one of the more artistic Starbucks we've seen. 
 
