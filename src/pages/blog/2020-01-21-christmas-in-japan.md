@@ -40,7 +40,7 @@ Next, we needed decorations and for that we hit up Daiso, Japan's equivalent of 
 
 Then we stopped at Kumamoto Toys to get a present for Marina's 3-year-old son. Shopping for a gift in a quaint little toy store definitely felt like a Christmas tradition that's all too rare nowadays back home so we enjoyed it. We got him some train-themed toys including a [Shinkalion](https://www.youtube.com/watch?v=8VFfEZWn9P4) (essentially a _Shinkansen_ (bullet train) transformer robot) which are all the rage with kids in Japan.
 
-The next step was the preparation. Chris made the sangria which turned out great despite having to use a pot as an improvised pitcher. I assembled the tree and put up decorations but mostly just looked pretty while Chris made tiny Christmas hats, stiched our friends' names on their stockings and made herself a Christmas outfit from spare fabric.
+The next step was the preparation. Chris made the sangria which turned out great despite having to use a pot as an improvised pitcher. I assembled the tree and put up decorations but mostly just looked pretty while Chris made tiny Christmas hats, stitched our friends' names on their stockings and made herself a Christmas outfit from spare fabric.
 
 ![Enjoying our hard work](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579592020/christmas/IMG_2565_bbuc72.jpg "Enjoying our hard work")
 
@@ -49,6 +49,8 @@ KFC chicken is a really popular Christmas tradition in Japan so we decided to ma
 ![The line at KFC on Christmas](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579592007/christmas/IMG_20191224_183119_p3bshm.jpg "The line at KFC on Christmas")
 
 All in all the party was a success. We had a great time with our friends and they were super impressed with Chris' party planning skills, and rightly so... I mean she impresses me practically every day.
+
+![Celebrating Christmas around the cozy kotatsu](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579591943/christmas/IMG_20191222_175652_gg14yg.jpg "Celebrating Christmas around the cozy kotatsu")
 
 The following day we all went to see [Kinkakuji](https://www.japan-guide.com/e/e3908.html) temple which was only a five-minute walk away. This was our second time going to see it since we went back in October with our other friends and it made us feel the tiniest bit like locals taking our visiting friends to see the local attractions. Protip: the crowds are much lighter in the middle of December.
 
@@ -61,3 +63,9 @@ For dinner, we had some deliciously comforting ramen at [Ichiran Ramen](https://
 ![Christmas dinner at Ichiran](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579591971/christmas/IMG_20191224_185205_hr0uh7.jpg "Christmas dinner at Ichiran")
 
 ![Art gallery mode Starbucks in a department store](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579592027/christmas/IMG_20191224_195927_yndwn3.jpg "Art gallery mode Starbucks in a department store")
+
+And then to top it off, on boxing day (can't forget our British friends) we found this great hole in the wall place where we had the _best_ okonomiyaki we've had in Japan.
+
+![Okonomiyaki and yaki soba](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579592021/christmas/IMG_20191227_124939_ihmcui.jpg "Okonomiyaki and yaki soba at Dainoji")
+
+So I'd say it was a fun Christmas thanks to memorable experiences and great friends.
