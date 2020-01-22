@@ -42,7 +42,7 @@ Then we stopped at Kumamoto Toys to get a present for Marina's 3-year-old son. S
 
 The next step was the preparation. Chris made the sangria which turned out great despite having to use a pot as an improvised pitcher. I assembled the tree and put up decorations but mostly just looked pretty while Chris made tiny Christmas hats, stitched our friends' names on their stockings and made herself a Christmas outfit from spare fabric.
 
-![Enjoying our hard work](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579592020/christmas/IMG_2565_bbuc72.jpg "Enjoying our hard work")
+![Enjoying our hard work](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579667566/christmas/IMG_2537_cgkakx.jpg "Enjoying our hard work")
 
 KFC chicken is a really popular Christmas tradition in Japan so we decided to make that our main dish along with Domino's pizza just because we were really craving pizza. I went to pick up the chicken on the day of which fortunately was a few days before Christmas because otherwise, the wait is absurd.
 
