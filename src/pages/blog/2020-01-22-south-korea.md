@@ -53,16 +53,24 @@ We also tried out the Tempur Cinema in Apgujeong, another trendy area. It was a 
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697689/IMG_2459_t0opxt.jpg "The Tempur Cinema in Apgujeong")
 
-
-
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697777/IMG_20191216_123703_q98aee.jpg "Chris and Brandon in the Tempur Cinema")
-
-
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697759/IMG_20191216_123439_uwanvb.jpg)
 
 Overall the Tempur Cinema was a fun experience but a bit pricey. We would probably only do it once a year if we lived here. However, sitting/lying on the Tempur mattresses did convince us we might need to buy one for our bed eventually. This cracked us up since their marketing scheme totally worked!
 
-The other activity we spent our time on was going to the local jimjilbang which is a community spa of sorts. They tend to have communal baths that are gender-separated and in which you get in naked. Then you put on these garish orange or tan shorts/t-shirt combos and pad upstairs to the many 
+The other activity we spent our time on was going to the local jimjilbang which is a community spa of sorts. They tend to have communal baths that are gender-separated and in which you get in naked. Then you put on these garish orange or tan shorts/t-shirt combos and pad upstairs to the many saunas which range in temperature and effect. They had the ice cold room, the charcoal room, the UV room, and a hot one with salt floor. I'm a wimp when it comes to saunas so I dart in and out just to "experience them" whereas most people sit and relax for much longer. I have discovered I'm a seventy degree kind of girl.
+
+
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697695/IMG_2481_nxkhep.jpg)
+
+My favorite part of the jimjilbang were the massage chairs. You insert coins and they rev up, encasing your limbs in alternating pressure to massage them. I also enjoyed the Sikhye, a cold and refreshing rice drink that is common at the jimjilbang. We also cracked open a couple boiled eggs to eat for good measure.
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697700/IMG_2487_ivkozl.jpg "the massage chairs at the jimjilbang")
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697691/IMG_2480_eh0yyh.jpg "seventy degree normal common area at the jimjilbang, my kinda room")
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697671/IMG_2479_h3coym.jpg "sikhye, a cold rice drink")
+
+Our week in South Korea flew by. We didn't do a lot of sightseeing, mostly due to the freezing temperatures and how cozy our airbnb was, but we thoroughly enjoyed eating good food and catching up with friends.
