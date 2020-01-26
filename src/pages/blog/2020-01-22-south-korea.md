@@ -15,7 +15,7 @@ Seoul December 13-20, 2019
 
 The events in this blog update actually took place right before Christmas.
 
-December 13-20, Brandon and I had the opportunity to visit friends in Seoul for a week. We had so much fun catching up with Wonsub, KJ, Jungwoo, JaeAh, and Sangwon. I knew them from my time in Houston around 10 years ago when I did Teach for America. We went to the same church at that time. 
+The week before Christmas, Brandon and I had the opportunity to visit friends in Seoul. We had so much fun catching up with Wonsub, KJ, Jungwoo, JaeAh, and Sangwon. I knew them from my time in Houston around 10 years ago when I did Teach for America. We went to the same church at that time. 
 
 The night after our arrival they took us out to eat at the Korean restaurant pictured above. It was so tasty! They told me it's the same restaurant we came to about 10 years ago when I visited them last time, along with Mary and other friends. It filled my heart right up with joy to see them all again. 
 
@@ -35,10 +35,34 @@ We met up with Sangwon on two other nights and he introduced us to an amazing It
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697655/3B7B2724-0BA8-4DD8-BFEB-59B7C606AFD4_xy91qv.jpg "The steak we shared")
 
-After dinner, Sangwon took us to a huge and tasty bakery called Passion Five, also in the Itaewon area. We were overwhelmed and giddy at the many colorful and sugar filled confections. However my favorite ended up being Sangwon's recommendation: the pudding.
+After dinner, Sangwon took us to a huge and tasty bakery called Passion Five, also in the Itaewon area. We were overwhelmed and giddy at the many colorful and sugar filled confections. However my favorite ended up being Sangwon's recommendation: the pudding. It was light and creamy, with a caramel bottom. We enjoyed it so much we returned a few days later.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697663/IMG_2421_ledwjw.jpg "Sangwon, me and Brandon doing some Christmas light touring in Itaewon")
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697757/IMG_2496_t3auzt.jpg "pastries galore at Passion Five in Itaewon")
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697665/IMG_2423_pgg9zb.jpg "Can you see that delicious pudding with a caramely bottom? Yuummm")
+
+South Korea felt more Western than Japan. Numerous highways bisected streets and it was clear that more people drive cars regularly than in Japan. We noted it was not as pedestrian friendly. Most restaurants and cafes accepted credit cards, whereas in Japan a lot of places still only accept cash. In addition, most peoples' English was really good at almost all of the shops we went to. People talked more on the subway, in contrast to the quiet that was pervasive on Japanese trains. However, we overall thought the Japanese subway was a bit nicer with their velvet seats and mega subway stations. 
+
+One thing I really enjoyed was our T-cards, which we customized to be a "couple" set of cute animals. They even have a station where you can print your T-card with your own photos!
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697779/IMG_20191214_114452_bts5me.jpg "Our super cute T-cards. Aww we match!")
+
+We also tried out the Tempur Cinema in Apgujeong, another trendy area. It was a splurge but we enjoyed the plush experience. The Apgujeong cinema is a multi-story affair that has a coffee cafe on the ground level. You go to one of the basement levels and staff in suits usher you in and allow you to choose a soft drink or juice. I really wanted a latte too so I scooted back upstairs to grab one. Once inside, large Tempurpedic reclining and adjustable beds await. Blankets are also provided since the theatre is a bit chilly. Gourmet popcorn sits on the side tables awaiting your hunger cravings.  
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697689/IMG_2459_t0opxt.jpg "The Tempur Cinema in Apgujeong")
+
+
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697777/IMG_20191216_123703_q98aee.jpg "Chris and Brandon in the Tempur Cinema")
+
+
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697759/IMG_20191216_123439_uwanvb.jpg)
+
+Overall the Tempur Cinema was a fun experience but a bit pricey. We would probably only do it once a year if we lived here. However, sitting/lying on the Tempur mattresses did convince us we might need to buy one for our bed eventually. This cracked us up since their marketing scheme totally worked!
+
+The other activity we spent our time on was going to the local jimjilbang which is a community spa of sorts. They tend to have communal baths that are gender-separated and in which you get in naked. Then you put on these garish orange or tan shorts/t-shirt combos and pad upstairs to the many 
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697695/IMG_2481_nxkhep.jpg)
