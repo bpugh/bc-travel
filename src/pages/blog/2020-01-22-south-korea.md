@@ -73,4 +73,4 @@ My favorite part of the jimjilbang were the massage chairs. You insert coins and
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697671/IMG_2479_h3coym.jpg "sikhye, a cold rice drink")
 
-Our week in South Korea flew by. We didn't do a lot of sightseeing, mostly due to the freezing temperatures and how cozy our airbnb was, but we thoroughly enjoyed eating good food and catching up with friends.
+Our week in South Korea flew by. We didn't do a lot of sightseeing, mostly due to the freezing temperatures and how cozy our airbnb was, but we thoroughly enjoyed eating good food and catching up with friends. And really what more can we ask for? We're very grateful for that opportunity.
