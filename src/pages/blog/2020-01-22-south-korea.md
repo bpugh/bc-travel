@@ -13,8 +13,6 @@ Seoul December 13-20, 2019
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697654/BandPhoto_2019_12_14_17_10_46_e3tdcr.jpg "Wonsub, KJ, Jungwoo, Brandon, Me, and JaeAh eating delicious Korean food")
 
-The events in this blog update actually took place right before Christmas.
-
 The week before Christmas, Brandon and I had the opportunity to visit friends in Seoul. We had so much fun catching up with Wonsub, KJ, Jungwoo, JaeAh, and Sangwon. I knew them from my time in Houston around 10 years ago when I did Teach for America. We went to the same church at that time. 
 
 The night after our arrival they took us out to eat at the Korean restaurant pictured above. It was so tasty! They told me it's the same restaurant we came to about 10 years ago when I visited them last time, along with Mary and other friends. It filled my heart right up with joy to see them all again. 
@@ -60,8 +58,6 @@ We also tried out the Tempur Cinema in Apgujeong, another trendy area. It was a 
 Overall the Tempur Cinema was a fun experience but a bit pricey. We would probably only do it once a year if we lived here. However, sitting/lying on the Tempur mattresses did convince us we might need to buy one for our bed eventually. This cracked us up since their marketing scheme totally worked!
 
 The other activity we spent our time on was going to the local jimjilbang which is a community spa of sorts. They tend to have communal baths that are gender-separated and in which you get in naked. Then you put on these garish orange or tan shorts/t-shirt combos and pad upstairs to the many saunas which range in temperature and effect. They had the ice cold room, the charcoal room, the UV room, and a hot one with salt floor. I'm a wimp when it comes to saunas so I dart in and out just to "experience them" whereas most people sit and relax for much longer. I have discovered I'm a seventy degree kind of girl.
-
-
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697695/IMG_2481_nxkhep.jpg)
 
