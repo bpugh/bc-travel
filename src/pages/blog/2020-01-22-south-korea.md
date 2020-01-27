@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: South Korea
 author: Chris
-date: 2020-01-20T12:53:08.968Z
+date: 2020-01-22T12:53:08.968Z
 description: South Korea adventures
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697654/BandPhoto_2019_12_14_17_10_46_e3tdcr.jpg
