@@ -65,8 +65,6 @@ We also tried out the Jewel's upper level garden for a few dollars extra. It had
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108432/IMG_20200124_175245_geqhjs.jpg "Brandon making a friend")
 
-
-
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108314/IMG_20200124_180757_tsdyqt.jpg "Me sitting in a green empty semi-circle from which fog pours out of")
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108268/IMG_3381_tgstzo.jpg "Cute elephant in the top garden")
