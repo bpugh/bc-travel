@@ -39,18 +39,28 @@ Eventually we found a bus to take us to the next terminal but it may not have be
 
 \------------------
 
-In contrast, upon leaving Boracay we went spent two nights at Changi Airport in Singapore, consistently winning awards for being one of the best in the world. As soon as we stepped off the plane, we were amazed by a grand hall that had moving gold sculptures in the air rearranging themselves like dynamic dinosaur bones. This was the hall that held immigration. I've never been so entertained in a line before. Then at baggage claim, lush flora adorned the sides so it felt like a resort. We couldn't believe we were in an airport. It was like Hyatt and Disneyland had an airport baby. I couldn't help myself. I kept exclaiming "look Brandon look!"
+In contrast, upon leaving Boracay we spent two nights at Changi Airport in Singapore, which consistently wins awards for being one of the best in the world. As soon as we stepped off the plane, we were amazed by a grand hall that had moving gold sculptures in the air rearranging themselves like dynamic dinosaur bones. This was the hall that held immigration. I've never been so entertained in a line before. Then at baggage claim, lush flora adorned the sides so it felt like a resort. We couldn't believe we were in an airport. It was like Hyatt and Disneyland had an airport baby. I couldn't help myself. I kept exclaiming "look Brandon look!"
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108286/IMG_20200123_182955_mcggov.jpg "Immigration at Changi airport ")
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108204/IMG_3338_t1kj84.jpg "Baggage claim at Changi Airport")
 
-We had decided to stay at the Crowne Plaza Hotel which is actually inside Changi airport for two nights to avoid a terrible 24 + hour travel day. We had also heard about the "Jewel" at the airport and wanted time to check it out. It did not disappoint. 
+We had decided to stay at the Crowne Plaza Hotel which is actually inside Changi airport for two nights. We had heard about the "Jewel" at the airport and wanted time to check it out. It did not disappoint. 
 
-The Jewel of Changi is a huge indoor mall attached to the airport, with a central waterfall that is the largest indoor waterfall in the world. It was built pretty recently, and again felt like Disneyland. It even smelled like the inside of an indoor ride at Universal studios, the ones that make the indoor studio feel like you're outdoors.
+The Jewel of Changi is a huge indoor mall attached to the airport, with a central waterfall that is the largest indoor waterfall in the world. It was built pretty recently, and again felt like Disneyland. It even smelled like the inside of an indoor ride at Universal studios, the ones that make the indoor studio feel like you're outdoors. And oh boy did I feel like I was outdoors at the Jewel.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108255/IMG_3363_avoxbq.jpg "The Jewel at Changi Airport")
 
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108285/IMG_3373_rygtr2.jpg "Me and my rainbow waterfall shot")
 
+The Jewel at night has laser shows with changing colors, graphics, and music. 
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108285/IMG_3373_rygtr2.jpg "Me and my waterfall jewel shot")
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108302/IMG_20200123_194636_qprsnp.jpg "The Jewel at night")
+
+At the bottom level of the Jewel, you can go up to the basin that collects the water that has fallen. It's completely enclosed so you can go right up and touch the clear barrier.
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108242/IMG_3365_iljaa6.jpg "Brandon in awe at the base of the waterfall")
+
+We also tried out the Jewel's upper level garden for a few dollars extra. It had gorgeous displays and was totally worth a couple bucks to stroll through. We did not, however, try out the jungle gym elements, the bridge at the top, the 3-D exhibit, or go to the movie theatre at the Jewel. And yet, we stayed busy.
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108432/IMG_20200124_175245_geqhjs.jpg "Brandon making a friend")
