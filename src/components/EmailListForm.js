@@ -12,7 +12,7 @@ const EmailListForm = () => {
       method="post"
       target="popupwindow"
     >
-      <div className="tile box notification" style={{ margin: '2rem 0' }}>
+      <div className="box notification" style={{ margin: '2rem 0' }}>
         <p className="is-size-4">
           Subscribe to get an update when we publish a new post!
         </p>
