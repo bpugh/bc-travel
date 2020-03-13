@@ -4,6 +4,7 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import HomePageBlogRoll from '../components/HomePageBlogRoll'
+import EmailListForm from '../components/EmailListForm'
 
 export const IndexPageTemplate = ({
   image,
@@ -79,8 +80,7 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
-                <div className="subscription-form">
-                </div>
+                <EmailListForm />
               </div>
             </div>
           </div>
