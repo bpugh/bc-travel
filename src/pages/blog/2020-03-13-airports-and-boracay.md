@@ -64,3 +64,15 @@ At the bottom level of the Jewel, you can go up to the basin that collects the w
 We also tried out the Jewel's upper level garden for a few dollars extra. It had gorgeous displays and was totally worth a couple bucks to stroll through. We did not, however, try out the jungle gym elements, the bridge at the top, the 3-D exhibit, or go to the movie theatre at the Jewel. And yet, we stayed busy.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108432/IMG_20200124_175245_geqhjs.jpg "Brandon making a friend")
+
+
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108314/IMG_20200124_180757_tsdyqt.jpg "Me sitting in a green empty semi-circle from which fog pours out of")
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108268/IMG_3381_tgstzo.jpg "Cute elephant in the top garden")
+
+Finally, when we were commuting between terminals at Changi, we were very impressed by how organized the shuttles were. They had schedules, high frequency, and even had comfy couches in view of the shuttle so you don't have to stand in line. 
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108427/MVIMG_20200123_184934_whaz7m.jpg "The shuttle sign at Changi")
+
+Changi airport is an attraction unto itself and spending a night at the Crowne Plaza there is a great way to turn a layover into an experience.
