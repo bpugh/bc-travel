@@ -17,9 +17,7 @@ Boracay: January 14-23, 2020
 
 Changi airport: January 23-25, 2020
 
-We are 2 months behind on blogging so please forgive the vagueness of some descriptions.
-
-After Bangkok, Brandon and I spent a week in Boracay in the Philippines. It's famous for their white sand beach and recently underwent a huge cleanup effort by the government involving shutting the entire island down for months. Compared to pictures I saw, it was indeed gorgeous and clean when we visited. We stayed at a beachfront hotel called Villa Caemilla that I found on tripadvisor. It was small, did not have a pool, but its best feature was the restaurant in front for the ocean. Cheap pina coladas, free painting classes, and a cultural dance show were included.
+After Bangkok, Brandon and I spent a week in Boracay in the Philippines. It's famous for their white sand beach and recently underwent a huge cleanup effort by the government involving shutting the entire island down for months. Compared to pictures I saw, it was indeed gorgeous and clean when we visited. We stayed at a beachfront hotel called Villa Caemilla that I found on tripadvisor. It was small, did not have a pool, but its best feature was the restaurant in front of the ocean. Cheap pina coladas, free painting classes, and a cultural dance show were included.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108309/IMG_20200121_181919_ugs2ry.jpg "Boracay beach")
 
@@ -41,4 +39,18 @@ Eventually we found a bus to take us to the next terminal but it may not have be
 
 \------------------
 
-In contrast, upon leaving Boracay we went spent two nights at Changi Airport in Singapore, consistently winning awards for being one of the best in the world.
+In contrast, upon leaving Boracay we went spent two nights at Changi Airport in Singapore, consistently winning awards for being one of the best in the world. As soon as we stepped off the plane, we were amazed by a grand hall that had moving gold sculptures in the air rearranging themselves like dynamic dinosaur bones. This was the hall that held immigration. I've never been so entertained in a line before. Then at baggage claim, lush flora adorned the sides so it felt like a resort. We couldn't believe we were in an airport. It was like Hyatt and Disneyland had an airport baby. I couldn't help myself. I kept exclaiming "look Brandon look!"
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108286/IMG_20200123_182955_mcggov.jpg "Immigration at Changi airport ")
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108204/IMG_3338_t1kj84.jpg "Baggage claim at Changi Airport")
+
+We had decided to stay at the Crowne Plaza Hotel which is actually inside Changi airport for two nights to avoid a terrible 24 + hour travel day. We had also heard about the "Jewel" at the airport and wanted time to check it out. It did not disappoint. 
+
+The Jewel of Changi is a huge indoor mall attached to the airport, with a central waterfall that is the largest indoor waterfall in the world. It was built pretty recently, and again felt like Disneyland. It even smelled like the inside of an indoor ride at Universal studios, the ones that make the indoor studio feel like you're outdoors.
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108255/IMG_3363_avoxbq.jpg "The Jewel at Changi Airport")
+
+
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108285/IMG_3373_rygtr2.jpg "Me and my waterfall jewel shot")
