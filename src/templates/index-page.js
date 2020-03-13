@@ -4,12 +4,15 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import HomePageBlogRoll from '../components/HomePageBlogRoll'
+import EmailListForm from '../components/EmailListForm'
 
 export const IndexPageTemplate = ({
   image,
   title,
   heading,
   subheading,
+  ourLocation,
+  asOfDate,
   mainpitch,
   description,
   intro,
@@ -57,9 +60,8 @@ export const IndexPageTemplate = ({
         </h3>
       </div>
     </div>
-    <section className="section section--gradient">
+    <section className="section">
       <div className="container">
-        <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
@@ -67,6 +69,14 @@ export const IndexPageTemplate = ({
                   <div className="tile">
                     <h3 className="subtitle">{mainpitch.description}</h3>
                   </div>
+                </div>
+                <div className="box notification" style={{ margin: '2rem 0' }}>
+                  <p className="is-size-4">
+                    Where are we now?
+                  </p>
+                  <p className="is-size-5">
+                    <span className="has-text-weight-bold">{ourLocation}</span> as of {asOfDate}
+                  </p>
                 </div>
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
@@ -79,12 +89,10 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div>
-                <div className="subscription-form">
-                </div>
+                <EmailListForm />
               </div>
             </div>
           </div>
-        </div>
       </div>
     </section>
   </div>
@@ -95,6 +103,8 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
+  ourLocation: PropTypes.string,
+  asOfDate: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
   intro: PropTypes.shape({
@@ -113,6 +123,8 @@ const IndexPage = ({ data }) => {
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
+        ourLocation={frontmatter.ourLocation}
+        asOfDate={frontmatter.asOfDate}
         description={frontmatter.description}
         intro={frontmatter.intro}
       />
@@ -144,6 +156,8 @@ export const pageQuery = graphql`
         }
         heading
         subheading
+        ourLocation
+        asOfDate
         mainpitch {
           description
         }

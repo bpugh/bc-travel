@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import { DiscussionEmbed } from 'disqus-react'
+import EmailListForm from '../components/EmailListForm'
 
 export const BlogPostTemplate = ({
   content,
@@ -53,6 +54,7 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            <EmailListForm />
             {typeof window !== 'undefined' &&
             window.location.href.includes('admin') ? null : (
               <DiscussionEmbed {...disqusConfig} />
