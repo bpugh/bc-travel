@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Cat Cafe Mocha Lounge in Shibuya
 author: Chris
-date: 2019-12-20T08:15:40.771Z
+date: 2019-12-13T08:15:40.771Z
 description: Cat Cafe Mocha Lounge in Shibuya
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1577792203/IMG_20191211_164402_w8dibd.jpg

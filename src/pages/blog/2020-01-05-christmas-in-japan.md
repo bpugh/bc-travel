@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Christmas in Japan
 author: Brandon
-date: 2020-01-24T05:36:50.198Z
+date: 2020-01-05T05:36:50.198Z
 description: Our Christmas in Japan
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579592050/christmas/IMG_20191125_220920_mjte4s.jpg
