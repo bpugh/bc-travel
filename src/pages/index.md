@@ -4,7 +4,7 @@ title: We're going on an adventure
 image: /img/tokyo-tower.jpg
 heading: Great coffee with a conscience
 subheading: Life is short and the world is wide
-ourLocation: Rogoznica, Croatia
+ourLocation: Komiža, Croatia
 asOfDate: August 28, 2020
 mainpitch:
   description: >
