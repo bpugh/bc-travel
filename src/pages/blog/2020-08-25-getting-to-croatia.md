@@ -9,6 +9,8 @@ featuredimage: >-
 tags:
   - croatia airports
 ---
+![Croatian sunset](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269458/getting%20to%20croatia/IMG_6859_oc5lyu.jpg "Croatian sunset")
+
 We spent a lot of time considering what to do with regard to resuming travel. A lot of countries were reopening and accepting tourists with varying levels of restrictions but there's still a lot of questions as to how safe travel really is right now and whether or not it was worth the risk. We postponed our decision a few times, once even going so far as to book then cancel a flight, but with Croatia having much lower case numbers than most countries, including the US, throughout the entire pandemic and once they opened up to Americans we decided to go for it. We plan to be as safe and responsible as we can and all things considered, the risks seemed within our threshold of tolerance especially when weighed against the fact that it will likely be decades before we can take another trip like this.
 
 ## Transit
@@ -26,7 +28,7 @@ We managed to use our Chase Ultimate Rewards points to book a flight through Uni
 
 This was our first time flying on Luftansa and despite all of the Covid precautions, their business class was still a pretty nice experience.
 
-![Meal on flight](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269452/getting%20to%20croatia/IMG_6840_k38az7.jpg "Luftansa's limited menu options were still delicious")
+![Meal on flight](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269452/getting%20to%20croatia/IMG_6840_k38az7.jpg "Luftansa's reduced menu options were still delicious")
 
 ![Chris lying down on business class flight](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269426/getting%20to%20croatia/IMG_20200728_030308_fvw2qs.jpg "Chris was able to get quite comfy")
 
@@ -46,12 +48,12 @@ We grabbed an Uber and headed to our Airbnb. Since we knew we would have to self
 
 ![Enjoying a glass of wine on the balcony](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598375235/getting%20to%20croatia/IMG_20200730_193333_hzi8rb.jpg "Enjoying a glass of wine on the balcony")
 
-Our host and her mom were so nice that they offered to go pick up some groceries for us since we wouldn't be able to leave so, with no idea what to expect a grocery store in Croatia to have, we gave them a quick list of some basic food elements we could use to make meals like eggs, chicken, and pasta. With that, we were able to make most of our meals which we supplemented with food from the one restaurant nearby, [Fast Food Bartul](https://web.facebook.com/fastfoodbartul/?_rdc=1&_rdr), that we found that would deliver to us and gave us our first introduction to the many forms of meat Croatia is known for.
+Our host and her mom were so nice that they offered to go pick up some groceries for us since we wouldn't be able to leave so, with no idea what to expect a grocery store in Croatia to have, we gave them a quick list of some basic food elements we could use to make meals like eggs, chicken, and pasta. With that, we were able to make most of our meals which we supplemented with food from the one restaurant nearby, [Fast Food Bartul](https://web.facebook.com/fastfoodbartul/?_rdc=1&_rdr), that would deliver. They gave us our first introduction to the many forms of meat Croatia is known for.
 
 ![The meat platter from Fast food Bartul](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269442/getting%20to%20croatia/IMG_20200731_161712_tdjpzw.jpg "The meat platter from Fast food Bartul")
 
 Fortunately after 7 days of self-isolation, we were allowed to go to a clinic in Split to get a PCR test. Once we figured out exactly where we were supposed to go, it was a pretty smooth process. After about a 20-minute wait, we got a swab inserted further than I thought possible, paid our bill, and then had our results emailed to us by the afternoon. "SARS-CoV-2 RNA not detected."! We were now free to move about the country!
 
-With our new found freedom we started exploring the recommended sights around Split, starting with the beach 2 minutes from our Airbnb. It turns out there's a lot to see and do in and around Split so I'll be putting all that in a followup post but suffice it to say we've had a great time in Croatia so far and we're continually impressed with what a beautiful country it is.
-
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269445/getting%20to%20croatia/IMG_20200731_195437_rdmxo9.jpg)
+
+With our new found freedom we started exploring the recommended sights around Split, starting with the beach 2 minutes from our Airbnb. It turns out there's a lot to see and do in and around Split so I'll be putting all that in a followup post but suffice it to say we've had a great time in Croatia so far and we're continually impressed with what a beautiful country it is.
