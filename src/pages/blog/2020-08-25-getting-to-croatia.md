@@ -37,7 +37,7 @@ We didn't see much of Munich airport but our 5-hour layover passed quickly thank
 
 Getting through immigration in Croatia went pretty smoothly. We were a little nervous since their official policy is to require a negative PCR test from within 48 hours for people coming from high-risk countries like the United States and it proved practically impossible for us to get tested without symptoms in that specific a time frame and with that quick of a turnaround. Fortunately, their policy also states that those who do not provide a negative PCR test upon arrival will be ordered to quarantine/self-isolate for at least 7 days prior to taking a local PCR test and this turned out to be the case as we just had to tell the immigration officer that we had a place stay for two weeks and she gave us the contact information for scheduling the local test and we were on our way!
 
-![Walking out of the airport, the first of many times we were struck by Croatia's beautiful scenery](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269435/getting%20to%20croatia/IMG_20200728_165131_ikdtej.jpg "Walking out of the airport, the first of many times we were struck by Croatia's beautiful scenery")
+![Walking out of the airport, the first of many times we were struck by Croatia's beautiful scenery](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598539816/getting%20to%20croatia/IMG_20200728_165131_yxgwfi.jpg "Walking out of the airport, the first of many times we were struck by Croatia's beautiful scenery")
 
 ## Quarantine
 
@@ -45,7 +45,7 @@ We grabbed an Uber and headed to our Airbnb. Since we knew we would have to self
 
 ![The view from the living room](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269462/getting%20to%20croatia/IMG_6854_mxrmzb.jpg "The view from the living room")
 
-![Enjoying a glass of wine on the balcony](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598375235/getting%20to%20croatia/IMG_20200730_193333_hzi8rb.jpg "Enjoying a glass of wine on the balcony")
+![Enjoying a glass of wine on the balcony](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598538463/getting%20to%20croatia/IMG_20200730_193333_1_heicmm.jpg "Enjoying a glass of wine on the balcony")
 
 Our host and her mom were so nice that they offered to go pick up some groceries for us since we wouldn't be able to leave. With no idea what to expect a grocery store in Croatia to have, we gave them a quick list of some basic food elements we could use to make meals like eggs, chicken, and pasta. With that, we were able to make most of our meals which we supplemented with food from the one restaurant nearby, [Fast Food Bartul](https://web.facebook.com/fastfoodbartul/?_rdc=1&_rdr), that would deliver. They gave us our first introduction to the many forms of meat Croatia is known for.
 
