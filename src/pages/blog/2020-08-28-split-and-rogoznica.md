@@ -11,8 +11,6 @@ tags:
 ---
 Once our required self-isolation was done, we started exploring the recommended sights around Split, starting with the beach 2 minutes from our Airbnb. The host lets her guests use her kayak free of charge, so we took advantage and kayaked around the beautiful bay.
 
-
-
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649372/split/IMG_20200806_144043_r72hze.jpg "Crystal clear bay to kayak in")
 
 On the other side of that bay is the small tourist town of Rogoznica (*c* in the Croatian is pronounced like *s*), which we visited to finally have some culinary variety. Croatian cuisine is apparently a "cuisine of the regions," and the coastal region has a lot of Italian/Venetian influence with lots of pizzerias and olive oil. Croatia also seems to have no shortage of restaurants with outdoor seating, which happens to be conducive to both social distancing and enjoying a waterside sunset. 
@@ -35,4 +33,4 @@ To see some of Croatia's natural beauty, everyone recommends visiting Krka Natio
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598650610/split/IMG_20200810_153553_b6bb3y.jpg)
 
-Split was originally just the most convenient city to fly into and isolate for two weeks so we're really glad we had the chance to explore it and learn a great deal about its rich history and unique culture even when to compared to other regions of Croatia.
+Split was originally just the most convenient city to fly into and isolate for two weeks so we're really glad we had the chance to explore it and learn a great deal about its rich history and unique culture even when compared to other regions of Croatia.
