@@ -25,7 +25,7 @@ In Split proper, the roman ruins are a quick and easy low-cost excursion. It's f
 
 An even more impressive example of this is [Diocletian's palace](https://en.wikipedia.org/wiki/Diocletian%27s_Palace). It's often at the top of lists of sights to see in Split and with good reason. Built during the fourth century for the Roman emperor Diocletian, it's a UNESCO world heritage site and one of the best preserved Roman architecture monuments in the world. Walking through its streets feels like being in an ancient city populated by modern inhabitants working their shops and living in their apartments in the outer walls. It's a surreal experience. If you're a Game of Thrones fan, then we highly recommended taking the GOT tour. They walk you through the palace and nearby cliff-side fortress, showing you all the locations filmed for the show. I may write a dedicated post just geeking out about all the GOT locations throughout Croatia.
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649209/split/IMG_20200808_104948_lqjpjm.jpg "In the palace basement")
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649209/split/IMG_20200808_104948_lqjpjm.jpg "In the palace basement. A handy place to keep dragons...")
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649415/split/IMG_20200808_101658_yptbhm.jpg "Coming through the eastern palace gate")
 
@@ -33,6 +33,6 @@ To see some of Croatia's natural beauty, everyone recommends visiting Krka Natio
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649342/split/IMG_20200810_141920_zfoes6.jpg "Krka National park")
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598650610/split/IMG_20200810_153553_b6bb3y.jpg)
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598650610/split/IMG_20200810_153553_b6bb3y.jpg "I can't decide what's the most beautiful part of this photo")
 
 Split was originally just the most convenient city to fly into and isolate for two weeks so we're really glad we had the chance to explore it and learn a great deal about its rich history and unique culture even when compared to other regions of Croatia.
