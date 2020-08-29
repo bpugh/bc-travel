@@ -17,6 +17,8 @@ On the other side of that bay is the small tourist town of Rogoznica (*c* in the
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649376/split/IMG_20200807_175635-COLLAGE_frqvxo.jpg "Delicious steak and pizza")
 
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649319/split/IMG_20200809_144244_dsi1dr.jpg "Just a low key fortress we stumbled upon at the end of the harbor")
+
 In Split proper, the roman ruins are a quick and easy low-cost excursion. It's fascinating to us the length of Croatia's history and the various ancient civilizations contributing to their modern culture. The simple fact of something being described as ancient that's just down the street from a mall is mind-blowing to me.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598649292/split/IMG_7035_hxqiro.jpg "Roman amphitheater")
