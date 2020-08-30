@@ -65,4 +65,6 @@ Our only other two Michelin experiences were in Japan with Marcus and Jr. We had
 
 The other restaurant was a kaiseki restaurant that specializes in multi-course traditional Japanese cuisine. This experience was awesome but I do not feel able to fully trust my experience of the food since many things in the courses were simply too foreign for my western palette. I felt a bit sad my taste buds were not expanded enough yet to fully appreciate it.
 
-![]( "The walk back up to our airbnb. Thank goodness for no alcohol or headache. This got sweaty.")
+We look forward to continuing to try new foods and flavors.
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598793212/Restaurant%20360/IMG_20200813_204416_ujrhnv.jpg "The walk back up to our airbnb. Thank goodness for no alcohol or headache. This got sweaty.")
