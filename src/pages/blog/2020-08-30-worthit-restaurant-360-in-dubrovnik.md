@@ -41,18 +41,18 @@ For his entree, Brandon picked the pork neck that our server informed us was coo
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782407/Restaurant%20360/IMG_20200815_193948_imxko0.jpg "Pan fried duck breast with artichoke cream, leg confit, sour onion")
 
-My duck breast had perfect texture and juiciness as well, very rich flavor so I ate it in small bites. I was most surprised by how fun and delicious the onion filled with duck confit was. I had to google the term "confit" (along with like 10 other terms in this blog lol) and it refers to a slow cooking preservation style of the entire duck from French cuisine. 
+My duck breast had perfect texture and juiciness as well, very rich flavor so I ate it in small bites. I was most surprised by how fun and delicious the onion filled with duck confit was. I had to google the term "confit" (along with like 10 other terms in this blog lol) and it refers to a slow cooking preservation style of the entire duck from French cuisine. I cut into the onion and a light fluffy whipped-like concoction of the confit poured out. Delicious. My "worth-it-meter" kept on rising due to thoughts that I'd never think of stuff like this, nor attempt cooking it. 
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782440/Restaurant%20360/IMG_20200815_201237_mpguwz.jpg "Surprise mini desserts")
 
-asdfasdf
+After our entrees, the server inquired about desserts. At first we said no and were surprised when we got three mini desserts anyways. Upon reflecting on how unique everything we had eaten was, we changed our mind and Brandon ordered a pear dessert.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782437/Restaurant%20360/IMG_20200815_203056_nkm44g.jpg "More surprise desserts")
 
-asdfasdf
+Before the pear arrived, they surprised us with a second dessert pictured above (one for each of us). It looked like it arrived in a space pod and consisted of sorbet and yogurt mousse. It tasted light and refreshing. 
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782426/Restaurant%20360/IMG_20200815_203719_eioxq8.jpg "Pear kadaif with tonka cream and ice cream")
 
-asdfasdf
+Finally, our actual dessert arrived. At this point I was too full to eat much more, so Brandon took one for the team and informed me the pear kadaif was good with interesting textures. However, he thought the macaron had been better. Also FYI from my googling, a kadaif aka kanafe aka kunefe is a traditional middle eastern dessert typically soaked in a sugary substance and layered with cheese or nuts.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782440/Restaurant%20360/IMG_20200815_203805_my1xht.jpg "August 15th Assumption of Mary procession")
