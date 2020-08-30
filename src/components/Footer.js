@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 
 import instagram from '../img/social/instagram.svg'
 import youtube from '../img/social/youtube.svg'
+import etsy from '../img/social/etsy.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -60,6 +61,13 @@ const Footer = class extends React.Component {
                   <img
                     src={youtube}
                     alt="Youtube"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a title="Chris's Etsy Shop" href="https://www.etsy.com/shop/MidoriTiger">
+                  <img
+                    src={etsy}
+                    alt="etsy icon"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
