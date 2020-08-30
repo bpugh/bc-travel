@@ -7,7 +7,8 @@ description: Getting to Croatia
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269458/getting%20to%20croatia/IMG_6859_oc5lyu.jpg
 tags:
-  - croatia airports
+  - croatia
+  - airports
 ---
 ![Croatian sunset](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269458/getting%20to%20croatia/IMG_6859_oc5lyu.jpg "Croatian sunset")
 

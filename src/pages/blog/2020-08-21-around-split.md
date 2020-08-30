@@ -7,7 +7,9 @@ description: Exploring Split and Rogoznica
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598650076/split/IMG_20200808_121657_oklgnd.jpg
 tags:
-  - split croatia food
+  - split
+  - croatia
+  - food
 ---
 Once our required self-isolation was done, we started exploring the recommended sights around Split, starting with the beach 2 minutes from our Airbnb. The host lets her guests use her kayak free of charge, so we took advantage and kayaked around the beautiful bay.
 

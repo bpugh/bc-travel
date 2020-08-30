@@ -9,8 +9,8 @@ description: >-
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1576493633/IMG_20191206_193257_epmrrp.jpg
 tags:
-  - Japan
-  - Kobe
+  - japan
+  - kobe
 ---
 We spent 10 wonderful days in Kobe (11/29-12/9), the hometown of two of our friends, Hiromi and Marina. It was so good to see them, and we also had fun seeing the Kobe Luminarie, karaoke, eating Kobe beef, seeing Kobe's Chinatown, and going to the Osaka aquarium.
 

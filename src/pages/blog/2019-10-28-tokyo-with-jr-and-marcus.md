@@ -10,7 +10,7 @@ featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1575815078/4a8d9e_37465be773c244cd9c67d807bf4aa8f5_mv2_d_1440_1439_s_2_vua4aj.webp
 
 tags:
-  - Tokyo
+  - tokyo
 ---
 
 10/14-10/22, 2019

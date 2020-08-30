@@ -7,7 +7,9 @@ description: Cat Cafe Mocha Lounge in Shibuya
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1577792203/IMG_20191211_164402_w8dibd.jpg
 tags:
-  - japan tokyo cafe
+  - japan
+  - tokyo
+  - cafe
 ---
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1577792203/IMG_20191211_164402_w8dibd.jpg "Brandon and Chris at the Cat Cafe Mocha Lounge in Shibuya")
 

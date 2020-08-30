@@ -7,7 +7,7 @@ description: South Korea adventures
 featuredimage: >-
   https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1579697654/BandPhoto_2019_12_14_17_10_46_e3tdcr.jpg
 tags:
-  - South Korea
+  - south korea
 ---
 Seoul December 13-20, 2019
 

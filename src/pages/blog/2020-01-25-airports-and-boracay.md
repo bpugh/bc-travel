@@ -10,6 +10,7 @@ tags:
   - Boracay
   - Chiangi airport
   - NAIA airport
+  - airports
 ---
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108300/IMG_20200121_182000_qzp7jl.jpg "Boracay sunset")
 
