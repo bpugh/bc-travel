@@ -11,17 +11,15 @@ tags:
 ---
 ![The view beside our table](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782375/Restaurant%20360/IMG_20200815_183454_nzzywe.jpg "The view beside our table ")
 
-As a child, I used to love plain food. The plainer the better. Hotdogs should be eaten completely plain. Why would anyone put ketchup or mustard on it, let alone onions or sauerkraut? Pizza should be cheese only. Adding toppings would only add to my work of picking off all intruders to my pizza. Sauces were in general moist, soggy and unpleasant. I really liked cereal.
+As a child, I used to love plain food. The plainer the better. Hotdogs should be eaten completely plain. Why would anyone put ketchup or mustard on it, let alone onions or sauerkraut? Pizza should be cheese only. Adding toppings would increase my workload of picking off all intruders to my pizza. Sauces were in general moist, soggy and unpleasant. Cereal was my #1 food: plain, sugary, almost devoid of nutrition, and perfect.
 
 I never imagined that as an adult, my tastebuds would change and I would eventually crave excitement in flavor and enjoy trying new things. This led us to booking a reservation at the Michelin starred Restaurant 360 in Dubrovnik. It has one Michelin star and upon researching it, we found it had good reviews and a great view. Check out the night view from our table in this video below.
 
 <insert video of night view here>
 
-asdfasdf
-
 ![Our non-alcoholic drinks were sweet and inventive](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782416/Restaurant%20360/IMG_20200815_184031_qtq17w.jpg "Our non-alcoholic drinks were sweet and inventive")
 
-asdfas
+Upon arriving at the door embedded in the Dubrovnik walls itself, a staff member with utilitarian clear plastic face mask greeted us and ushered us up the stone steps to the spacious outdoor seating atop the wall. Our table was by the water and we could see the Dubrovnik harbor complete with replicas of 16th century merchant ships sailing in. Waitstaff instantly appeared and took our order for drinks. I had a moment of longing that zipped through me but I batted it down, thinking of the strenuous 15 minute climb up neverending stairs to our airbnb that awaited us afterwards. The last thing I wanted was a headache while doing that. 
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782410/Restaurant%20360/IMG_20200815_184703_cowxwz.jpg)
 
