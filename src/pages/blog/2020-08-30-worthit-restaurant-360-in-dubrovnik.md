@@ -37,11 +37,11 @@ Brandon especially enjoyed the "trout caviar" (the orange Roe, er fish eggs) on 
 
 ![Pork neck with pumpkin cream and tomato chutney](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782418/Restaurant%20360/IMG_20200815_194016_mkw2ze.jpg "Pork neck with pumpkin cream and tomato chutney")
 
-asdfasd
+For his entree, Brandon picked the pork neck that our server informed us was cooked at low temperature for 24 hours then braised. He particularly liked the juiciness of the meat, the pumpkin cream on the side, and the cheese sauce from Pag (in Croatia). 
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782407/Restaurant%20360/IMG_20200815_193948_imxko0.jpg "Pan fried duck breast with artichoke cream, leg confit, sour onion")
 
-asdfasdf
+My duck breast had perfect texture and juiciness as well, very rich flavor so I ate it in small bites. I was most surprised by how fun and delicious the onion filled with duck confit was. I had to google the term "confit" (along with like 10 other terms in this blog lol) and it refers to a slow cooking preservation style of the entire duck from French cuisine. 
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782440/Restaurant%20360/IMG_20200815_201237_mpguwz.jpg "Surprise mini desserts")
 
