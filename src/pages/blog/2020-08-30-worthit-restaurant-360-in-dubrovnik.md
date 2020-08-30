@@ -56,3 +56,13 @@ Before the pear arrived, they surprised us with a second dessert pictured above 
 Finally, our actual dessert arrived. At this point I was too full to eat much more, so Brandon took one for the team and informed me the pear kadaif was good with interesting textures. However, he thought the macaron had been better. Also FYI from my googling, a kadaif aka kanafe aka kunefe is a traditional middle eastern dessert typically soaked in a sugary substance and layered with cheese or nuts.
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782440/Restaurant%20360/IMG_20200815_203805_my1xht.jpg "August 15th Assumption of Mary procession")
+
+As our 3 hour dinner drew to and end, we saw a throng of people coalescing in the harbor. White robed priests led some sort of procession that we later learned was for the August 15th Assumption of Mary celebration. It would have been cool to see a procession in normal times, but due to the current pandemic, we were a bit concerned for the people who made up the crowd below. 
+
+Overall we thought Restaurant 360 was completely worth it. We spent about 200$ USD altogether, on two non-alcoholic drinks, two first dishes, two entrees, one dessert, and ended up getting a trio of amuse-bouches and two sets of surprise desserts also included. The service was the best I've had thus far with almost magical appearances by staff. The view was amazing, and we felt safe and socially distanced atop the wall and from other guests. The food was delicious and inventive and I would definitely go back. 
+
+Our only other two Michelin experiences were in Japan with Marcus and Jr. We had eaten at a Ramen restaurant called Tsuta that had a very good shoyu soba ramen topped with some truffle oil. It was good but did not "wow" us. We actually liked the ramen chain Ichiran a bit better. 
+
+The other restaurant was a kaiseki restaurant that specializes in multi-course traditional Japanese cuisine. This experience was awesome but I do not feel able to fully trust my experience of the food since many things in the courses were simply too foreign for my western palette. I felt a bit sad my taste buds were not expanded enough yet to fully appreciate it.
+
+![]( "The walk back up to our airbnb. Thank goodness for no alcohol or headache. This got sweaty.")
