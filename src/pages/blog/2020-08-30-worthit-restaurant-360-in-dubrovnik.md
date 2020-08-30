@@ -11,7 +11,9 @@ tags:
 ---
 ![The view beside our table](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782375/Restaurant%20360/IMG_20200815_183454_nzzywe.jpg "The view beside our table ")
 
+As a child, I used to love plain food. The plainer the better. Hotdogs should be eaten completely plain. Why would anyone put ketchup or mustard on it, let alone onions or sauerkraut? Pizza should be cheese only. Adding toppings would only add to my work of picking off all intruders to my pizza. Sauces were in general moist, soggy and unpleasant. I really liked cereal.
 
+I never imagined that as an adult, my tastebuds would change and I would eventually crave excitement in flavor and enjoy trying new things. This led us to booking a reservation at the Michelin starred Restaurant 360 in Dubrovnik. It has one Michelin star and upon researching it, we found it had good reviews and a great view. Check out the night view from our table in this video below.
 
 <insert video of night view here>
 
