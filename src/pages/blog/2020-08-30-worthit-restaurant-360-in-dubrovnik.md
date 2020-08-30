@@ -19,11 +19,13 @@ I never imagined that as an adult, my tastebuds would change and I would eventua
 
 ![Our non-alcoholic drinks were sweet and inventive](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782416/Restaurant%20360/IMG_20200815_184031_qtq17w.jpg "Our non-alcoholic drinks were sweet and inventive")
 
-Upon arriving at the door embedded in the Dubrovnik walls itself, a staff member with utilitarian clear plastic face mask greeted us and ushered us up the stone steps to the spacious outdoor seating atop the wall. Our table was by the water and we could see the Dubrovnik harbor complete with replicas of 16th century merchant ships sailing in. Waitstaff instantly appeared and took our order for drinks. I had a moment of longing that zipped through me but I batted it down, thinking of the strenuous 15 minute climb up neverending stairs to our airbnb that awaited us afterwards. The last thing I wanted was a headache while doing that. 
+Upon arriving at the door embedded in the Dubrovnik walls itself, a staff member with utilitarian clear plastic face mask greeted us and ushered us up the stone steps to the spacious outdoor seating atop the wall. Our table was by the water and we could see the Dubrovnik harbor complete with replicas of 16th century merchant ships sailing in. 
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782410/Restaurant%20360/IMG_20200815_184703_cowxwz.jpg)
+Waitstaff instantly appeared and took our order for drinks. I had a moment of longing that zipped through me but I batted it down, thinking of the neverending stairs to our airbnb that awaited us afterwards. The last thing I wanted was a headache while doing that. Thus we ordered non-alcoholic drinks that turned out delicious and unique. Our sparkling water was refilled every 10 minutes or so, just when it got a quarter of the way depleted. The staff seemed magical in being non-intrusive but instantly attentive. 
 
-asdfasdf
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782410/Restaurant%20360/IMG_20200815_184703_cowxwz.jpg "amuse-bouche trio")
+
+I'm "shoulding all over myself" right now since I don't remember what the trio above consisted of. They were delicious and exciting though. The macaron at the end was actually a savory flavor (i think truffle perhaps?) that melted into our mouths with intensity but also delicacy in texture. It was the best macaron I've had in terms of what it felt like and how much flavor burst forth. The second best so far would have been at a train station in Tokyo. 
 
 ![Beetroot and cheese risotto](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782415/Restaurant%20360/IMG_20200815_190030_bemwcc.jpg "Beetroot and cheese risotto")
 
