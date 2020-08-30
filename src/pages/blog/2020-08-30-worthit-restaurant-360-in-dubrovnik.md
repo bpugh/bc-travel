@@ -1,9 +1,11 @@
 ---
 templateKey: blog-post
-title: '#worthit? Restaurant 360 in Dubrovnik'
+title: '#Worthit? Restaurant 360 in Dubrovnik'
 author: Chris
 date: 2020-08-30T10:09:19.017Z
 description: About our dinner at michelin star Restaurant 360 in Dubrovnik
+featuredimage: >-
+  https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782375/Restaurant%20360/IMG_20200815_183454_nzzywe.jpg
 tags:
   - croatia dubrovnik food
 ---
