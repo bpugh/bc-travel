@@ -29,11 +29,11 @@ I'm "shoulding all over myself" right now since I don't remember what the trio a
 
 ![Beetroot and cheese risotto](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782415/Restaurant%20360/IMG_20200815_190030_bemwcc.jpg "Beetroot and cheese risotto")
 
-asdfasd
-
 ![Mackerel with bonito dressing, potato and miso mayo, white turnip](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782422/Restaurant%20360/IMG_20200815_190045_ugra55.jpg "Mackerel with bonito dressing, potato and miso mayo, white turnip")
 
-asdfas
+A seriously perfect amount of time later, our first courses arrived. I had a beetroot risotto that impressed me in its glorious magenta, and Brandon had Mackerel with miso mayo. We both loved the risotto with its blue cheese and gorgonzola splashes. The blue cheese cut well into the creaminess of the bite. I don't even really like blue cheese but it was perfect for this. 
+
+Brandon especially enjoyed the "trout caviar" (the orange Roe, er fish eggs) on his mackerel. The server sounded like an expert in his description of the mackerel and its many sidekicks. He then said "basically whatever is on the left has very strong flavor so slide it through the miso for balance". I loved that we were taught how to eat a dish properly. To me this showed an incredible amount of thought when designing the meal.
 
 ![Pork neck with pumpkin cream and tomato chutney](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782418/Restaurant%20360/IMG_20200815_194016_mkw2ze.jpg "Pork neck with pumpkin cream and tomato chutney")
 
