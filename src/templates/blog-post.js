@@ -5,12 +5,10 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
-import { DiscussionEmbed } from 'disqus-react'
 import EmailListForm from '../components/EmailListForm'
 
 export const BlogPostTemplate = ({
   content,
-  slug,
   contentComponent,
   description,
   timeToRead,
@@ -21,10 +19,6 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
-  const disqusConfig = {
-    shortname: 'bc-travels', //todo: move this config like: process.env.GATSBY_DISQUS_NAME,
-    config: { identifier: slug, title },
-  }
 
   return (
     <section className="section">
@@ -55,10 +49,6 @@ export const BlogPostTemplate = ({
               </div>
             ) : null}
             <EmailListForm />
-            {typeof window !== 'undefined' &&
-            window.location.href.includes('admin') ? null : (
-              <DiscussionEmbed {...disqusConfig} />
-            )}
           </div>
         </div>
       </div>
@@ -83,7 +73,6 @@ const BlogPost = ({ data }) => {
     <Layout>
       <BlogPostTemplate
         content={post.html}
-        slug={post.fields.slug}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         timeToRead={post.timeToRead}
@@ -124,9 +113,6 @@ export const pageQuery = graphql`
         author
         description
         tags
-      }
-      fields {
-        slug
       }
       timeToRead
     }
