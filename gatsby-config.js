@@ -77,14 +77,23 @@ module.exports = {
         ],
       },
     },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     // The property ID; the tracking code won't be generated without it
+    //     trackingId: "UA-37923235-3",
+    //     anonymize: true,
+    //     respectDNT: false,
+    //   },
+    // },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-goatcounter`,
       options: {
-        // The property ID; the tracking code won't be generated without it
-        trackingId: "UA-37923235-3",
-        anonymize: true,
-        respectDNT: false,
-      },
+        // Either `code` or `selfHostUrl` is required.
+        // REQUIRED IF USING HOSTED GOATCOUNTER! https://[my_code].goatcounter.com
+        code: 'bpugh',
+      }
+
     },
     {
       resolve: "gatsby-plugin-netlify-cache",
