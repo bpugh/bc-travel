@@ -30,13 +30,13 @@ So it was with a heavy reluctance that we decided to give up our bags.
 
 We had some of our most expensive items with us but there were quite a few things we'd acquired on the trip that would be hard to replace, but we were out of options. With that decision made, we turned back to Singapore airlines. Though it took us a while to get through to customer service (understandable given everything going on), once we did their service was world-class. After some back and forth, the rep on the phone had managed to get us on a flight to LAX with just one layover in Tokyo and he even managed to keep us on first class. 
 
-The only downside: it didn't leave for another 36 hours. That meant we would be staying two nights in the Changi international terminal.
+The only downside: it didn't leave for another **36 hours**. That meant we would be staying two nights in the Changi international terminal.
 
 Not *too* bad, we thought. Changi is a really nice airport and has 3 transit hotels in the terminal. Transit hotels are super convenient for people with layovers since they're located air-side and you can book them by the hour. Unfortunately all of them were completely booked for the night. At this point we'd already been at the airport for 7 hours after our 3-hour flight from Cambodia and we were mentally exhausted. We wondered if we'd be tired enough to pass out on a semi-soft bench somewhere - Changi does have lots of comfortable spots to potentially sleep but they were all taken by this point.
 
 Then we had the idea to check if the Singapore airlines' first class lounge would let us in early, and mercifully they did. We were able to find some couches to lay on, attendants brought us pillows and blankets, and I passed out around 3 AM.
 
-![Crashing in the lounge](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598952211/changi/IMG_4938_yxcwrw.jpg "Crashing in the lounge")
+![Crashing in the lounge](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598961346/changi/IMG_4937-COLLAGE_w2zzxq.jpg "Crashing in the lounge")
 
 And was awake 3 hours later.
 
@@ -44,9 +44,11 @@ Apparently 6 AM is when the breakfast buffet starts so the lights come and the l
 
 After eating, we did a bit of shopping for some spare clothes and other essentials.
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598952219/changi/MVIMG_20200321_204411_esg8bu.jpg)
+![Louis Vitton being extra](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598952206/changi/IMG_4935_ze8awr.jpg "Louis Vitton being extra")
 
-When we got back to the lounge we noticed Singapore airlines has their own check-in counters within the lounge. So with only a tiny hope, we explained our situation to them and asked if there was any way they could get our bags onto our flight. They also didn't seem very hopeful but none the less they proceeded to make a series of phone calls and it was impressive watching these two ladies work. They worked in tandem looking up the numbers and departments to call and getting the various bits of information they needed and in the end they told us "Yes." our bags would be on the flight. We almost hugged them we were so grateful, but we restrained ourselves. We did however, buy them some excellent macarons from a shop downstairs.
+![Pretty little jungle area with a coy pond](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598962482/changi/IMG_20200321_205310-COLLAGE_xclkyh.jpg "Pretty little jungle area with a coy pond")
+
+When we got back to the lounge we noticed Singapore airlines has their own check-in counters within the lounge. So with only a tiny hope, we explained our situation to them and asked if there was any way they could get our bags onto our flight. They also didn't seem very hopeful but none the less they proceeded to make a series of phone calls and it was impressive watching these two ladies work. They worked in tandem looking up the numbers and departments to call and getting the various bits of information they needed and in the end they told us "Yes." our bags would be on the flight. We almost hugged them we were so grateful, but we restrained ourselves. Another miracle like that and they would qualify for sainthood. We settled on buying them some excellent macarons from a shop downstairs.
 
 The next bit of good news was that we went back to one of the transit hotels to see if they had any cancellations and they told us they could give us a room from 1 AM to 7 AM that night. "We'll take it!"
 
@@ -60,14 +62,16 @@ Elated that we would have an actual bed to sleep in that night, we returned to t
 
 The lounge experience was probably only topped by the one we had on the flight. By far one of the best values you can get for credit card points is redeeming them for first class long haul flights, but they can be hard to book as availability is limited. This is why Chris had booked our original tickets so far in advance so we were incredibly lucky that we were still able to experience a first class flight on Singapore airlines which is known for having a great experience across all their ticket classes. 
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598955045/changi/IMG_20200322_090716_zt34aj.jpg)
+![The first class experience really deserves its own post](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598955045/changi/IMG_20200322_090716_zt34aj.jpg "The first class experience really deserves its own post")
 
 ![Multi course meal on flight](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598954222/changi/IMG_4959-COLLAGE_1_vbgavi.jpg "They served us multiple delicious courses and this was just the first meal of the flight!")
 
 Once we made it to LAX we were just glad to have made back to the States *with all our luggage*! I did also go ahead and do my onsite interview to finish my Global Entry application since they were still offering and there were hardly any people. I figured why not?
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598952183/changi/IMG_20200322_144625_ihxn6s.jpg "Getting some sleep in the Korean airlines lounge")
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598952183/changi/IMG_20200322_144625_ihxn6s.jpg "Getting some sleep in the Korean airlines lounge at LAX")
 
 We eventually made it Austin by 10 PM local time. Our good friend Marcus picked us up from the airport and dropped us off at an airbnb we're staying at for two weeks to voluntarily quarantine before staying with my family since we were in an airport for almost two days. We fell asleep by midnight and didn't wake up until 6 PM (it took us a while to get back on a regular sleep schedule).
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598952026/changi/IMG_4988_yqa4vl.jpg "Our retro-style Austin airbnb")
 
 We're so grateful to be back home and that everything worked really well, all things considered. There were some definite stressful points but we ended up having a much better experience trying to get home than a lot of people. And we couldn't be more thankful to all the airline staff that helped us along the way.
