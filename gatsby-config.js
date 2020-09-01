@@ -83,7 +83,7 @@ module.exports = {
         // The property ID; the tracking code won't be generated without it
         trackingId: "UA-37923235-3",
         anonymize: true,
-        respectDNT: true,
+        respectDNT: false,
       },
     },
     {
