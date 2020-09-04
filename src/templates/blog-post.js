@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import EmailListForm from '../components/EmailListForm'
+import { PostPreview } from '../components/PostPreview'
 
 export const BlogPostTemplate = ({
   content,
@@ -48,6 +49,8 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            <h2>Popular Post</h2>
+            <PostPreview />
             <EmailListForm />
           </div>
         </div>
