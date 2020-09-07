@@ -1,0 +1,13 @@
+figcaption {
+  text-align: center;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+video {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
