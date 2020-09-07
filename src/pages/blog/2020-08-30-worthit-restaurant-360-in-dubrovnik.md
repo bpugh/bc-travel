@@ -18,7 +18,7 @@ As a child, I used to love plain food. The plainer the better. Hotdogs should be
 
 I never imagined that as an adult, my tastebuds would change and I would eventually crave excitement in flavor and enjoy trying new things. This led us to book a reservation at the Michelin starred Restaurant 360 in Dubrovnik. It has one Michelin star and upon researching it, we found it had good reviews and a great view. Check out the night view from our table in this video below.
 
-<insert video of night view here>
+`video: https://res.cloudinary.com/bctravel/video/upload/v1599500544/Restaurant%20360/edited_restaurant_360_s5sp4o.mp4`
 
 ![Our non-alcoholic drinks were sweet and inventive](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782416/Restaurant%20360/IMG_20200815_184031_qtq17w.jpg "Our non-alcoholic drinks were sweet and inventive")
 
