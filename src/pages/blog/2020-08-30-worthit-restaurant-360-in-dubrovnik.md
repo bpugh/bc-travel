@@ -10,7 +10,6 @@ tags:
   - croatia
   - dubrovnik
   - food
-  - worthit
 ---
 ![The view beside our table](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598782375/Restaurant%20360/IMG_20200815_183454_nzzywe.jpg "The view beside our table ")
 
