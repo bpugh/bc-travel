@@ -56,4 +56,4 @@ After 7 days of self-isolation, we were allowed to go to a clinic in Split to ge
 
 ![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269445/getting%20to%20croatia/IMG_20200731_195437_rdmxo9.jpg)
 
-With our new found freedom we started exploring the recommended sights around Split, starting with the beach 2 minutes from our Airbnb. It turns out there's a lot to see and do in and around Split so I'll be putting all that in a followup post but suffice it to say we've had a great time in Croatia so far and we're continually impressed with what a beautiful country it is.
+With our new found freedom we started exploring the recommended sights around Split, starting with the beach 2 minutes from our Airbnb. It turns out [there's a lot to see and do in and around Split](/blog/2018-08-21-around-split) so I'll be putting all that in a followup post but suffice it to say we've had a great time in Croatia so far and we're continually impressed with what a beautiful country it is.

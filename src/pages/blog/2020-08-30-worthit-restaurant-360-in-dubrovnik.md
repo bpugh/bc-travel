@@ -15,7 +15,7 @@ tags:
 
 As a child, I used to love plain food. The plainer the better. Hotdogs should be eaten completely plain. Why would anyone put ketchup or mustard on it, let alone onions or sauerkraut? Pizza should be cheese only. Adding toppings would increase my workload of picking off all intruders to my pizza. Sauces were in general moist, soggy and unpleasant. Cereal was my #1 food: plain, sugary, almost devoid of nutrition, and perfect.
 
-I never imagined that as an adult, my tastebuds would change and I would eventually crave excitement in flavor and enjoy trying new things. This led us to book a reservation at the Michelin starred Restaurant 360 in Dubrovnik. It has one Michelin star and upon researching it, we found it had good reviews and a great view. Check out the night view from our table:
+I never imagined that as an adult, my tastebuds would change and I would eventually crave excitement in flavor and enjoy trying new things. This led us to book a reservation at the Michelin starred [Restaurant 360](https://www.tripadvisor.com/Restaurant_Review-g295371-d3165278-Reviews-Restaurant_360-Dubrovnik_Dubrovnik_Neretva_County_Dalmatia.html) in Dubrovnik. It has [one Michelin star](https://www.ice.edu/blog/michelin-stars) and upon researching it, we found it had good reviews and a great view. Check out the night view from our table:
 
 `video: https://res.cloudinary.com/bctravel/video/upload/v1599500544/Restaurant%20360/edited_restaurant_360_s5sp4o.mp4`
 
