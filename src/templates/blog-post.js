@@ -73,7 +73,7 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout>
+    <Layout featuredimage={post.frontmatter.featuredimage}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -116,6 +116,7 @@ export const pageQuery = graphql`
         author
         description
         tags
+        featuredimage
       }
       timeToRead
     }
