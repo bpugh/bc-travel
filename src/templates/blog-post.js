@@ -73,7 +73,7 @@ const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout featuredimage={post.frontmatter.featuredimage}>
+    <Layout featuredimage={post.frontmatter.featuredimage} pageTitle={post.frontmatter.title}>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -81,8 +81,7 @@ const BlogPost = ({ data }) => {
         timeToRead={post.timeToRead}
         date={post.frontmatter.date}
         helmet={
-          <Helmet titleTemplate="%s | Blog">
-            <title>{`${post.frontmatter.title}`}</title>
+          <Helmet>
             <meta
               name="description"
               content={`${post.frontmatter.description}`}

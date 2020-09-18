@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Getting to Croatia
 author: Brandon
 date: 2020-08-15T14:31:41.839Z
-description: Getting to Croatia
+description: Our experience traveling to Croatia from the United States
 featuredimage: https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269426/getting%20to%20croatia/IMG_20200728_030308_fvw2qs.jpg
 tags:
   - croatia

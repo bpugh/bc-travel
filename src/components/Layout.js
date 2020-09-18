@@ -7,8 +7,9 @@ import './media.css'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
-const TemplateWrapper = ({ children, featuredimage }) => {
-  const { title, description } = useSiteMetadata()
+const TemplateWrapper = ({ children, featuredimage, pageTitle }) => {
+  const { title: siteTitle, description } = useSiteMetadata()
+  const title = pageTitle ? `${pageTitle} | ${siteTitle}` : siteTitle;
   return (
     <div>
       <Helmet>
@@ -46,7 +47,9 @@ const TemplateWrapper = ({ children, featuredimage }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={featuredimage ? featuredimage : `${withPrefix('/')}img/og-image.jpg`}
+          content={
+            featuredimage ? featuredimage : `${withPrefix('/')}img/og-image.jpg`
+          }
         />
       </Helmet>
       <Navbar />
