@@ -40,7 +40,8 @@ const TemplateWrapper = ({ children, featuredimage, pageTitle }) => {
           href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
           color="#ff4400"
         />
-        <meta name="theme-color" content="#fff" />
+        {/* Only in Chrome currently */}
+        <meta name="theme-color" content="#209CEE" />
 
         <meta property="og:type" content="article" />
         <meta property="og:title" content={title} />
