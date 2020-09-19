@@ -4,7 +4,7 @@ title: Getting to Croatia
 author: Brandon
 date: 2020-08-15T14:31:41.839Z
 description: Our experience traveling to Croatia from the United States
-featuredimage: https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269426/getting%20to%20croatia/IMG_20200728_030308_fvw2qs.jpg
+featuredimage: https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1600528111/getting%20to%20croatia/IMG_20200728_030308_b9eq2i.jpg
 tags:
   - croatia
   - airports
@@ -29,7 +29,7 @@ This was our first time flying on Luftansa and despite all of the Covid precauti
 
 ![In-flight steak dinner](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269452/getting%20to%20croatia/IMG_6840_k38az7.jpg "Luftansa's reduced menu options were still delicious")
 
-![Chris lying down on business class flight](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1598269426/getting%20to%20croatia/IMG_20200728_030308_fvw2qs.jpg "Chris was able to get quite comfy")
+![Chris lying down on business class flight](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1600528111/getting%20to%20croatia/IMG_20200728_030308_b9eq2i.jpg "Chris was able to get quite comfy")
 
 We didn't see much of Munich airport but our 5-hour layover passed quickly thanks to these super nifty [Napcabs](https://www.napcabs.com/) that you can rent by the hour and are thoroughly cleaned between uses. I was a bit skeptical I'd be able to sleep much in them... yet the cab helpfully woke me up from my death-like slumber 3 hours later when our time was up.
 
