@@ -50,21 +50,30 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="Our Instagram" href="https://instagram.com/chrismasuda1177/">
+                <a
+                  title="Our Instagram"
+                  href="https://instagram.com/chrismasuda1177/"
+                >
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="Our Youtube" href="https://www.youtube.com/channel/UCKhkLO3wV7udkL-xQj_EfLA">
+                <a
+                  title="Our Youtube"
+                  href="https://www.youtube.com/channel/UCKhkLO3wV7udkL-xQj_EfLA"
+                >
                   <img
                     src={youtube}
                     alt="Youtube"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="Chris's Etsy Shop" href="https://www.etsy.com/shop/MidoriTiger">
+                <a
+                  title="Chris's Etsy Shop"
+                  href="https://www.etsy.com/shop/MidoriTiger"
+                >
                   <img
                     src={etsy}
                     alt="etsy icon"

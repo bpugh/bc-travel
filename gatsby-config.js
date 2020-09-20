@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'BC Adventures travel blog',
-    description:
-      'A blog of our round the world trip!',
+    description: 'A blog of our round the world trip!',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -74,11 +73,11 @@ module.exports = {
             },
           },
           {
-            resolve: "gatsby-remark-external-links",
+            resolve: 'gatsby-remark-external-links',
             options: {
-              target: "_blank",
-              rel: "noopener noreferrer"
-            }
+              target: '_blank',
+              rel: 'noopener noreferrer',
+            },
           },
           {
             resolve: 'gatsby-remark-copy-linked-files',
@@ -93,16 +92,16 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // The property ID; the tracking code won't be generated without it
-        trackingId: "UA-37923235-3",
+        trackingId: 'UA-37923235-3',
         anonymize: true,
         respectDNT: false,
       },
     },
     {
-      resolve: "gatsby-plugin-netlify-cache",
+      resolve: 'gatsby-plugin-netlify-cache',
       options: {
-        cachePublic: false
-      }
+        cachePublic: false,
+      },
     },
     {
       resolve: 'gatsby-plugin-netlify-cms',

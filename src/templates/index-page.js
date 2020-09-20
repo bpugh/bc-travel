@@ -62,37 +62,36 @@ export const IndexPageTemplate = ({
     </div>
     <section className="section">
       <div className="container">
-          <div className="columns">
-            <div className="column is-10 is-offset-1">
+        <div className="columns">
+          <div className="column is-10 is-offset-1">
+            <div className="content">
               <div className="content">
-                <div className="content">
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
+                <div className="tile">
+                  <h3 className="subtitle">{mainpitch.description}</h3>
                 </div>
-                <div className="box notification" style={{ margin: '2rem 0' }}>
-                  <p className="is-size-4">
-                    Where are we now?
-                  </p>
-                  <p className="is-size-5">
-                    <span className="has-text-weight-bold">{ourLocation}</span> as of {asOfDate}
-                  </p>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Latest stories
-                  </h3>
-                  <HomePageBlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn has-text-primary" to="/blog">
-                      Read more
-                    </Link>
-                  </div>
-                </div>
-                <EmailListForm />
               </div>
+              <div className="box notification" style={{ margin: '2rem 0' }}>
+                <p className="is-size-4">Where are we now?</p>
+                <p className="is-size-5">
+                  <span className="has-text-weight-bold">{ourLocation}</span> as
+                  of {asOfDate}
+                </p>
+              </div>
+              <div className="column is-12">
+                <h3 className="has-text-weight-semibold is-size-2">
+                  Latest stories
+                </h3>
+                <HomePageBlogRoll />
+                <div className="column is-12 has-text-centered">
+                  <Link className="btn has-text-primary" to="/blog">
+                    Read more
+                  </Link>
+                </div>
+              </div>
+              <EmailListForm />
             </div>
           </div>
+        </div>
       </div>
     </section>
   </div>

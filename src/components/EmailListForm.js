@@ -26,7 +26,10 @@ const EmailListForm = () => {
               type="email"
             />
           </div>
-          <p className="help">Enter email address. We send occasional emails and you can unsubscribe any time.</p>
+          <p className="help">
+            Enter email address. We send occasional emails and you can
+            unsubscribe any time.
+          </p>
         </div>
         <div className="control">
           <input className="button is-link" type="submit" value="Subscribe" />

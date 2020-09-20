@@ -93,7 +93,10 @@ const BlogPost = ({ data, pageContext }) => {
   const { markdownRemark: post } = data
 
   return (
-    <Layout featuredimage={post.frontmatter.featuredimage} pageTitle={post.frontmatter.title}>
+    <Layout
+      featuredimage={post.frontmatter.featuredimage}
+      pageTitle={post.frontmatter.title}
+    >
       <BlogPostTemplate
         content={post.html}
         pageContext={pageContext}
