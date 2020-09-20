@@ -8,7 +8,10 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        sort: { order: DESC, fields: [frontmatter___date] }
+        limit: 1000
+      ) {
         edges {
           node {
             id
@@ -18,6 +21,24 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               tags
               templateKey
+            }
+          }
+          next {
+            frontmatter {
+              title
+              templateKey
+            }
+            fields {
+              slug
+            }
+          }
+          previous {
+            frontmatter {
+              title
+              templateKey
+            }
+            fields {
+              slug
             }
           }
         }
@@ -31,6 +52,8 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
 
+    const isBlogPost = post => post.frontmatter.templateKey === 'blog-post'
+
     posts.forEach(edge => {
       const id = edge.node.id
       createPage({
@@ -42,6 +65,10 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          // need to flip next/previous since remark seems to build them backwards
+          previous: edge.next && isBlogPost(edge.next) ? edge.next : null,
+          next:
+            edge.previous && isBlogPost(edge.previous) ? edge.previous : null,
         },
       })
     })

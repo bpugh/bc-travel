@@ -10,6 +10,7 @@ import { PostPreview } from '../components/PostPreview'
 
 export const BlogPostTemplate = ({
   content,
+  pageContext,
   contentComponent,
   description,
   timeToRead,
@@ -20,6 +21,20 @@ export const BlogPostTemplate = ({
   helmet,
 }) => {
   const PostContent = contentComponent || Content
+  const { next, previous } = pageContext
+  const nextArticle = next && (
+    <Link to={next.fields.slug} style={{ maxWidth: '25%' }}>
+      <strong>Next Article</strong> <br />
+      {next.frontmatter.title}
+    </Link>
+  )
+
+  const prevArticle = previous && (
+    <Link to={previous.fields.slug} style={{ maxWidth: '25%' }}>
+      <strong>Previous Article</strong> <br />
+      {previous.frontmatter.title}
+    </Link>
+  )
 
   return (
     <section className="section">
@@ -49,6 +64,11 @@ export const BlogPostTemplate = ({
                 </ul>
               </div>
             ) : null}
+            <div className="prev-next-links-wrapper">
+              <div className="prev-next-links">{nextArticle}</div>
+              <div className="prev-next-links">{prevArticle}</div>
+            </div>
+
             <h2>Popular Post</h2>
             <PostPreview />
             <EmailListForm />
@@ -69,13 +89,14 @@ BlogPostTemplate.propTypes = {
   helmet: PropTypes.object,
 }
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, pageContext }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout featuredimage={post.frontmatter.featuredimage} pageTitle={post.frontmatter.title}>
       <BlogPostTemplate
         content={post.html}
+        pageContext={pageContext}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         timeToRead={post.timeToRead}
