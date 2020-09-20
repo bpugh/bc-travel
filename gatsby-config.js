@@ -1,12 +1,15 @@
+const rssConfig = require('./rss-feed-config')
 const isProduction = process.env.NODE_ENV === 'production'
 
 module.exports = {
   siteMetadata: {
+    siteUrl: 'https://www.brandonandchris.com',
     title: 'BC Adventures travel blog',
     description: 'A blog of our round the world trip!',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+    rssConfig,
     'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
