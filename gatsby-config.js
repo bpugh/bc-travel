@@ -1,3 +1,5 @@
+const isProduction = process.env.NODE_ENV === 'production'
+
 module.exports = {
   siteMetadata: {
     title: 'BC Adventures travel blog',
@@ -58,6 +60,7 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 1048,
               showCaptions: true,
+              disabled: !isProduction,
             },
           },
           {

@@ -38,6 +38,10 @@ module.exports = async (
     loading: `lazy`,
   }
 
+  if(pluginOptions.disabled) {
+    return markdownAST
+  }
+
   // This will only work for markdown syntax image tags
   const markdownImageNodes = select(markdownAST, `image`)
 
