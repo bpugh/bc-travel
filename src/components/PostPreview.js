@@ -1,12 +1,9 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 export class PostPreview extends React.Component {
   render() {
-    const { data } = this.props
-    // const { post } = data
     const post = {
       excerpt:
         'So there we were waiting in line at the Siem Reap airport... the US State Department had just issued the unprecedented blanket travel advisory stating that US citizens abroad should not expect help returning to the US if they become stranded in a foreign country. With this, we decided that once we landed in Singapore we would try to fly back home as soon as we could, but little did we know that…',

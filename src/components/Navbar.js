@@ -44,15 +44,15 @@ const Navbar = class extends React.Component {
               BC Adventures
             </Link>
             {/* Hamburger menu */}
-            <div
+            <button
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
+              aria-label="menu"
               onClick={() => this.toggleHamburger()}
             >
-              <span />
-              <span />
-              <span />
-            </div>
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
+              <span aria-hidden="true" />
+            </button>
           </div>
           <div
             id="navMenu"
