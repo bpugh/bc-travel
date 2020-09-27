@@ -18,6 +18,7 @@ export const BlogPostTemplate = ({
   date,
   title,
   author,
+  isPreview,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -48,7 +49,8 @@ export const BlogPostTemplate = ({
             <p>By {author}</p>
             <p>
               <small>
-                {date} <span> &bull; </span> {timeToRead} min read
+                {date}
+                {timeToRead ? <span>{` • ${timeToRead} min read`}</span> : null}
               </small>
             </p>
             <PostContent content={content} />
@@ -56,7 +58,7 @@ export const BlogPostTemplate = ({
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
                 <ul className="taglist">
-                  {tags.map(tag => (
+                  {tags.map((tag) => (
                     <li key={tag + `tag`}>
                       <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                     </li>
@@ -69,9 +71,13 @@ export const BlogPostTemplate = ({
               <div className="prev-next-links">{prevArticle}</div>
             </div>
 
-            <h2>Popular Post</h2>
-            <PostPreview />
-            <EmailListForm />
+            {!isPreview ? (
+              <div>
+                <h2>Popular Post</h2>
+                <PostPreview />
+                <EmailListForm />
+              </div>
+            ) : null}
           </div>
         </div>
       </div>
