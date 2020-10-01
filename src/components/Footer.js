@@ -4,6 +4,8 @@ import { Link } from 'gatsby'
 import instagram from '../img/social/instagram.svg'
 import youtube from '../img/social/youtube.svg'
 import etsy from '../img/social/etsy.svg'
+import github from '../img/social/github.svg'
+import rss from '../img/social/rss.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -46,6 +48,11 @@ const Footer = class extends React.Component {
                         Blog
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/tags">
+                        Tags
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
@@ -77,6 +84,26 @@ const Footer = class extends React.Component {
                   <img
                     src={etsy}
                     alt="etsy icon"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a
+                  title="Source code"
+                  href="https://github.com/bpugh/bc-travel"
+                >
+                  <img
+                    src={github}
+                    alt="github icon"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a
+                  title="RSS feed"
+                  href="/rss.xml"
+                >
+                  <img
+                    src={rss}
+                    alt="rss icon"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>

@@ -6,6 +6,8 @@
 
 This site is built with [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/) and follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
+NetlifyCMS is used to help manage content and since it's a media heavy travel blog, most of the images are hosted on Cloudinary.
+
 ## Prerequisites
 
 - Node (I recommend using v8.2.0 or higher)
@@ -14,8 +16,8 @@ This site is built with [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gat
 ## Running Locally
 
 ``` bash
-git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
-cd [REPO_NAME]
+git clone https://github.com/bpugh/bc-travel.git
+cd bc-travel
 yarn
 yarn start
 ```
@@ -24,15 +26,6 @@ To test the CMS portion locally, you'll need run a production build of the site:
 
 ``` bash
 yarn build
-```
-
-## Getting Started (Without Netlify)
-
-``` bash
-gatsby new [SITE_DIRECTORY_NAME] https://github.com/netlify-templates/gatsby-starter-netlify-cms/
-cd [SITE_DIRECTORY_NAME]
-npm run build
-npm run serve
 ```
 
 ### Setting up the CMS
@@ -51,7 +44,7 @@ npm install --global --production windows-build-tools
 
 [Full details here](https://www.npmjs.com/package/node-gyp 'NPM node-gyp page')
 
-MacOS users might also encounter some errors, for more info check [node-gyp](https://github.com/nodejs/node-gyp). We recommend using the latest stable node version.
+MacOS users might also encounter some errors, for more info check [node-gyp](https://github.com/nodejs/node-gyp). I recommend using the latest stable node version.
 
 ## CONTRIBUTING
 
