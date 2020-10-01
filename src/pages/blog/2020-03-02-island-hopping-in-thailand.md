@@ -4,12 +4,12 @@ title: Island Hopping in Thailand
 author: Brandon
 date: 2020-03-02T13:56:04.702Z
 description: Visiting various islands in Thailand
-featuredimage: https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108300/IMG_20200121_182000_qzp7jl.jpg
+featuredimage: https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581257/thailand/IMG_3493_o9rz6b.jpg
 tags:
   - thailand
   - islands
 ---
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1584108300/IMG_20200121_182000_qzp7jl.jpg 'Boracay sunset')
+![koh lipe beach dotted with large rocks](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581257/thailand/IMG_3493_o9rz6b.jpg)
 
 January 25th to February 20th
 
@@ -29,11 +29,15 @@ We were immediately impressed by Ten Moons once we arrived. It's a small unassum
 The bungalows have a rustic feel but still have essential amenities like a standard bathroom and air conditioning and the staff keeps the pitchers of drinking water constantly filled.
 But the view is the real appeal of these accommodations. While every bungalow has an ocean view, we were especially fortunate that ours was right on the beach (largely thanks to Chris booking it almost a year in advance).
 
-\[photo from our room]
+![view of the beach from my bed](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580582/thailand/IMG_20200125_152422_ucidgf.jpg "I could get used to waking up to this")
 
 As for the beach itself, it's almost too perfect to believe. The white sand feels as soft as flour and the water is so clear and shallow and calm that even a hundred feet out you feel like you're taking a bath with an infinite view.
 
 \[Photos of the beach]
+
+![selfie of us in shallow clear beach](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580832/thailand/MVIMG_20200130_143502_b5sdye.jpg "Amazing crystal clear water with soft white sand")
+
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580596/thailand/IMG_20200126_084038_rxoci0.jpg "Morning yoga on our little patio")
 
 But the beach isn't without its dangers...
 
@@ -76,15 +80,14 @@ She also made sure we took full advantage of the great deal they gave us on mass
 
 The next stop on our tour of the islands was Koh Samui. This was definitely the longest and most disjointed travel day thus far and on top of that, we'd been given only minimal instructions other than we would be picked up at Pimalai and we had supposedly book transport all the way to the pier on Koh Samui.
 
-
 * So we were picked up in a van 🚐
-* -> drove onto a ferry over to the mainland 🛥️
-* -> got dropped off at a bus stop 🚏
-* -> took a bus across Thailand 🚌
-* -> took another ferry over to Koh Samui ⛴️
-* -> took a taxi across Koh Samui 🚕
-* -> Met up with the owner of the airbnb at a nearby school 🚗
-* -> The Owner drove the last leg of the journey up a steep winding hillside road 🗻
+* \-> drove onto a ferry over to the mainland 🛥️
+* \-> got dropped off at a bus stop 🚏
+* \-> took a bus across Thailand 🚌
+* \-> took another ferry over to Koh Samui ⛴️
+* \-> took a taxi across Koh Samui 🚕
+* \-> Met up with the owner of the airbnb at a nearby school 🚗
+* \-> The Owner drove the last leg of the journey up a steep winding hillside road 🗻
 
 We finally arrived at our Airbnb aptly named "Infinity Villa" since it's a villa high up on a hillside with an infinity pool and an amazing view of the island.
 
