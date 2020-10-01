@@ -109,6 +109,9 @@ const Footer = class extends React.Component {
                 </a>
               </div>
             </div>
+            <div>
+              Built with ❤ with <a href="https://www.gatsbyjs.com/">Gatsby</a>
+            </div>
           </div>
         </div>
       </footer>
