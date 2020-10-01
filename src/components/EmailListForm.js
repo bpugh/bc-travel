@@ -34,6 +34,8 @@ const EmailListForm = () => {
         <div className="control">
           <input className="button is-link" type="submit" value="Subscribe" />
         </div>
+        <br />
+        <a href="/rss.xml">Or subscribe via RSS</a>
       </div>
     </form>
   )
