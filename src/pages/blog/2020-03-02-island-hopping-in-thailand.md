@@ -9,15 +9,15 @@ tags:
   - thailand
   - islands
 ---
-![koh lipe beach dotted with large rocks](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581257/thailand/IMG_3493_o9rz6b.jpg)
+![koh lipe beach dotted with large rocks](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581257/thailand/IMG_3493_o9rz6b.jpg "Koh Lipe beach")
 
 January 25th to February 20th
 
-After our brief stay in Singapore, we spent about the next month (from January 25th to February 20th) on various Thai islands. It was a blast and a really unique experience. Looking back on it I'm probably struck the most by how different the experience was on each of the islands. We also had some interesting experiences traveling between the islands...
+After our [brief stay in Singapore](https://www.brandonandchris.com/blog/2020-01-25-airports-and-boracay/), we spent about the next month (from January 25th to February 20th) on various Thai islands. It was a blast and a really unique experience. Looking back on it I'm probably struck the most by how different the experience was on each of the islands. We also had some interesting experiences traveling between the islands...
 
 ## Koh Lipe
 
-Our first stop was Koh Lipe. From Singapore we took a 1.5-hour flight budget airline Scoot to Hat Yai airport in Thailand. From there it was about a two-hour shuttle ride to the Pak Bara pier where we took a roughly 3-hour ferry ride to Koh Lipe. The ferry ride would have been quicker but it kept making random tiny islands for us to get off have a look around for a bit which we weren't expecting. A recurring frustration with these various boats and shuttles we booked through local transport companies was the lack of information they provide upfront. Half the time we just knew we had to be somewhere at a certain time and hope we found the person who was supposed to guide us the rest of the way.
+Our first stop was Koh Lipe. From Singapore we took a 1.5-hour flight on budget airline Scoot to Hat Yai airport in Thailand. From there it was about a two-hour shuttle ride to the Pak Bara pier where we took a roughly 3-hour ferry ride to Koh Lipe. The ferry ride would have been quicker but it kept making random tiny islands for us to get off have a look around for a bit which we weren't expecting. A recurring frustration with these various boats and shuttles we booked through local transport companies was the lack of information they provide upfront. Half the time we just knew we had to be somewhere at a certain time and hope we found the person who was supposed to guide us the rest of the way.
 
 Once we landed at Koh Lipe, someone from Ten Moons met us at the "pier" (floating plastic bins attached to the beach) and put us on a small banana boat to take a quick trip around to the other side of the island where we would be staying.
 
@@ -32,8 +32,6 @@ But the view is the real appeal of these accommodations. While every bungalow ha
 ![view of the beach from my bed](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580582/thailand/IMG_20200125_152422_ucidgf.jpg "I could get used to waking up to this")
 
 As for the beach itself, it's almost too perfect to believe. The white sand feels as soft as flour and the water is so clear and shallow and calm that even a hundred feet out you feel like you're taking a bath with an infinite view.
-
-\[Photos of the beach]
 
 ![selfie of us in shallow clear beach](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580832/thailand/MVIMG_20200130_143502_b5sdye.jpg "Amazing crystal clear water with soft white sand")
 
@@ -60,9 +58,11 @@ After about a week on Koh Lipe, we said goodbye to the sleepy little island and 
 
 \[insert photo of view from room]
 
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580351/thailand/IMG_20200131_131719_wkemzz.jpg "A beautiful view of the beach")
+
 The food was also tough to beat especially when coupled with the view:
 
-\[more photos of Pimalai]
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580379/thailand/IMG_20200131_141525_idmftw.jpg)
 
 We also may have indulged a bit and stayed a couple of nights in one of their private villas...
 
@@ -72,7 +72,7 @@ By now you may have started to notice Chris' affinity for infinity pools...
 
 \[photos of Chris on infinity pools]
 
-She also made sure we took full advantage of the great deal they gave us on massages at their spa. The gym was also nice for working off the extra calories from all the tasty food including what could *maybe* be considered an unhealthy amount of mango sticky rice...
+She also made sure we took full advantage of the great deal they gave us on massages at their spa. The gym was also nice for working off the extra calories from all the tasty food including what some *might* consider an unhealthy amount of mango sticky rice...
 
 \[photos of food]
 
