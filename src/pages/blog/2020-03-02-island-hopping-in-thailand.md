@@ -35,15 +35,15 @@ As for the beach itself, it's almost too perfect to believe. The white sand feel
 
 ![selfie of us in shallow clear beach](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580832/thailand/MVIMG_20200130_143502_b5sdye.jpg "Amazing crystal clear water with soft white sand")
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580596/thailand/IMG_20200126_084038_rxoci0.jpg "Morning yoga on our little patio")
+![chris doing a strech in the morning on bungalow patio right on the beach](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580596/thailand/IMG_20200126_084038_rxoci0.jpg "Morning yoga on our little patio")
 
 But the beach isn't without its dangers...
 
-Chris really enjoys lounging in the water on floaties, but it was practical to pack one from home so she tried ordering one from amazon. And it actually arrived. I secretly had little confidence it would make it so I was shocked when Chris walked up holding that familiar smiling box. She'd placed the order a few days ago and it promptly left its warehouse in Kentucky to begin its journey to the small Thai island. And despite the lunar new year weekend it managed to make it here ahead of the estimated deliver date. It's a floaty style called a pool hammock that we highly recommend. [You can get it here](https://amzn.to/2t7cgHH). It's pretty cool since it's versatile, doesn't take long to blow up and is pretty compact when stored.
+Chris really enjoys lounging in the water on floaties, but it was practical to pack one from home so she tried ordering one from amazon. And it actually arrived. I secretly had little confidence it would make it so I was shocked when Chris walked up holding that familiar smiling box. She'd placed the order a few days ago and it promptly left its warehouse in Kentucky to begin its journey to the small Thai island. And despite the lunar new year weekend it managed to make it here ahead of the estimated delivery date. It's a floaty style called a pool hammock that we highly recommend. [You can get it here](https://amzn.to/2t7cgHH). It's pretty cool since it's versatile, doesn't take long to blow up, and is pretty compact when stored.
 
 She was excited to take it for a spin so she hopped in the water as soon as she had it blown up. When I joined her she had been enjoying herself immensely and insisted I try it out so I hopped on in the full "lounge" configuration. After floating for a bit, Chris was feeling adventurous and started propelling us towards this tiny island maybe four hundred yards away from shore. 
 After we were maybe a few hundred feet out, I was looking around amazed at how clear the water was that we could see the coral underneath us.
-I also noticed some small brown seaweed looking things floating around me. *huh those look kinda like...*
+I also noticed some small brown seaweed looking things floating around me. *huh, those look kinda like...*
 "My arm feels tingly", Chris said abruptly.
 *Yep, those are jellyfish...*
 "I see a bunch of small jellyfish. Head back!"
@@ -56,25 +56,25 @@ Afterward, we did confirm those types of small jellyfish are sometimes seen in t
 
 After about a week on Koh Lipe, we said goodbye to the sleepy little island and traveled North about 4 hours by ferry up the Thai coast to the island of Koh Lanta to stay at the Pimalai resort. We first heard about Pimalai when our friends Greg and Ro raved about it after their trip to Thailand so we figured we should stop by and spend a few days relaxing there. In stark contrast to Ten Moons, Pimalai is a sprawling resort-style hotel with multiple restaurants, large pools, gym and a spa. You can't get a room right on the beach but it's just a short walk down and still an amazing view.
 
-\[insert photo of view from room]
+![people standing around a pile of luggage on a wooden dock](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581117/thailand/MVIMG_20200131_121352_mzo2yq.jpg "This was \\"baggage claim\\" when we got off the boat on Koh Lanta")
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580351/thailand/IMG_20200131_131719_wkemzz.jpg "A beautiful view of the beach")
+![chris looking out at the beach from our balcony](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580351/thailand/IMG_20200131_131719_wkemzz.jpg "A beautiful view of the beach")
 
 The food was also tough to beat especially when coupled with the view:
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580379/thailand/IMG_20200131_141525_idmftw.jpg)
+![view of the ocean from sitting at restaurant table on the beach](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580379/thailand/IMG_20200131_141525_idmftw.jpg "Eating at the beach side restaurant")
 
 We also may have indulged a bit and stayed a couple of nights in one of their private villas...
 
-\[photos of the villa]
+![beautiful inifinity pool overlooking ocean](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580237/thailand/EFFECTS_brjj5k.jpg "Beautiful view from infinity pool in Pimalai's villas")
 
 By now you may have started to notice Chris' affinity for infinity pools...
 
-\[photos of Chris on infinity pools]
+![chris sitting at the edge of an infinity pool](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580871/thailand/MVIMG_20200201_133301_wv49l8.jpg "The large pool at Pimalai")
 
 She also made sure we took full advantage of the great deal they gave us on massages at their spa. The gym was also nice for working off the extra calories from all the tasty food including what some *might* consider an unhealthy amount of mango sticky rice...
 
-\[photos of food]
+![a plate of mango sticky rice](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602411778/thailand/IMG_3531_y1wzg4.jpg "We cannot seem to get enough mango sticky rice")
 
 ## Koh Samui
 
@@ -91,15 +91,15 @@ The next stop on our tour of the islands was Koh Samui. This was definitely the 
 
 We finally arrived at our Airbnb aptly named "Infinity Villa" since it's a villa high up on a hillside with an infinity pool and an amazing view of the island.
 
-\[photo of the view from infinity villa]
+![chris floating in an infinity pool](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580862/thailand/IMG_20200217_124011_oyz2iv.jpg "Chris enjoying her floatie in the airbnb infinity pool")
 
-We spent our time on Koh Samui mostly enjoying the villa. We cooked meals, enjoyed the view, floated in the pool, practiced making some dance videos with the awesome background, and even getting massages.
+We spent our time on Koh Samui mostly enjoying daily life. We cooked meals, enjoyed the view, floated in the pool, practiced making some dance videos with the awesome background, and even getting massages.
 
-\[photos of villa life]
+
 
 Though it's an Airbnb, the villa is owned by a management company that throws in additional benefits like fresh breakfast every morning and scheduling a massage therapist to come by and give an excellent reasonably priced massage with a great view (Chris made ample use of this service).
 
-We also ventured into town several times and checked out the market center and the local vendors and I even found a good barber to get a haircut from. We made a couple trips to get groceries and even went to the movie theater to see "1917" (highly recommend). We mostly used Grab (popular ride-sharing service in Asia) to get around but a couple times we decided to hike down our to get some basic supplies from the convenience store (which we now refer to as conbini's after being in Japan so long and it's fewer syllables anyway) at the bottom of our hill and we would just consider that our workout for the day since a 20-30 minute hike up the steep hill while carrying a couple gallons of water is no joke.
+We also ventured into town several times and checked out the market center and the local vendors and I even found a good barber to get a haircut from. We made a couple of trips to get groceries and even went to the movie theater to see "1917" (highly recommend). We mostly used Grab (a popular ride-sharing service in Asia) to get around but a couple times we decided to hike down our to get some basic supplies from the convenience store (which we now refer to as conbini's after being in Japan so long and it's fewer syllables anyway) at the bottom of our hill and we would just consider that our workout for the day since a 20-30 minute hike up the steep hill while carrying a few gallons of water is no joke.
 
 We of course tried out some tasty local restaurants and had more delicious Thai food including more mango sticky rice 😍. Admittedly we were also missing Japanese food so were pleasantly surprised we even found a nice Japanese restaurant.
 
