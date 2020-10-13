@@ -56,7 +56,7 @@ Afterward, we did confirm those types of small jellyfish are sometimes seen in t
 
 After about a week on Koh Lipe, we said goodbye to the sleepy little island and traveled North about 4 hours by ferry up the Thai coast to the island of Koh Lanta to stay at the Pimalai resort. We first heard about Pimalai when our friends Greg and Ro raved about it after their trip to Thailand so we figured we should stop by and spend a few days relaxing there. In stark contrast to Ten Moons, Pimalai is a sprawling resort-style hotel with multiple restaurants, large pools, gym and a spa. You can't get a room right on the beach but it's just a short walk down and still an amazing view.
 
-![people standing around a pile of luggage on a wooden dock](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581117/thailand/MVIMG_20200131_121352_mzo2yq.jpg "This was \\"baggage claim\\" when we got off the boat on Koh Lanta")
+![people standing around a pile of luggage on a wooden dock](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581117/thailand/MVIMG_20200131_121352_mzo2yq.jpg "This was \\\"baggage claim\\\" when we got off the boat on Koh Lanta")
 
 ![chris looking out at the beach from our balcony](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580351/thailand/IMG_20200131_131719_wkemzz.jpg "A beautiful view of the beach")
 
@@ -95,12 +95,20 @@ We finally arrived at our Airbnb aptly named "Infinity Villa" since it's a villa
 
 We spent our time on Koh Samui mostly enjoying daily life. We cooked meals, enjoyed the view, floated in the pool, practiced making some dance videos with the awesome background, and even getting massages.
 
-
+![a kitchen that opens out onto the patio that overlooks the island](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580214/thailand/IMG_3856_ai0kdp.jpg "Not a bad view to have while cooking")
 
 Though it's an Airbnb, the villa is owned by a management company that throws in additional benefits like fresh breakfast every morning and scheduling a massage therapist to come by and give an excellent reasonably priced massage with a great view (Chris made ample use of this service).
 
-We also ventured into town several times and checked out the market center and the local vendors and I even found a good barber to get a haircut from. We made a couple of trips to get groceries and even went to the movie theater to see "1917" (highly recommend). We mostly used Grab (a popular ride-sharing service in Asia) to get around but a couple times we decided to hike down our to get some basic supplies from the convenience store (which we now refer to as conbini's after being in Japan so long and it's fewer syllables anyway) at the bottom of our hill and we would just consider that our workout for the day since a 20-30 minute hike up the steep hill while carrying a few gallons of water is no joke.
+![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580036/thailand/6B494A27-5676-4ECD-AC69-C70FCA7FEE82_zyjqh8.jpg)
+
+We also ventured into town several times and checked out the market center and the local vendors and I even found a good barber to get a haircut from. We made a couple of trips to get groceries and even went to the movie theater to see "1917" (highly recommend). We mostly used Grab (a popular ride-sharing service in Asia) to get around but a couple of times we decided to hike down our to get some basic supplies from the convenience store (which we now refer to as conbini's after being in Japan so long and it's fewer syllables anyway) at the bottom of our hill and we would just consider that our workout for the day since a 20-30 minute hike up the steep hill while carrying a few gallons of water is no joke.
+
+![steep paved driveways on a hillside](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602513883/thailand/IMG_3833-COLLAGE_bhjlt4.jpg "The steep \"driveway\" up to our airbnb — it was about the same grade most of the way down")
+
+![luxurious seats in a movie theater](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602513718/thailand/IMG_3941_htl5am.jpg "Even on a small island you can find fancy theater seats in Thailand")
 
 We of course tried out some tasty local restaurants and had more delicious Thai food including more mango sticky rice 😍. Admittedly we were also missing Japanese food so were pleasantly surprised we even found a nice Japanese restaurant.
+
+![]()
 
 It was really great opportunity getting to experience such diverse island life.
