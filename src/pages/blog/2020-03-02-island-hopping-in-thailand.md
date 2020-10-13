@@ -4,6 +4,7 @@ title: Island Hopping in Thailand
 author: Brandon
 date: 2020-03-02T13:56:04.702Z
 description: Visiting various islands in Thailand
+featuredpost: true
 featuredimage: https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581257/thailand/IMG_3493_o9rz6b.jpg
 tags:
   - thailand
@@ -23,7 +24,7 @@ Once we landed at Koh Lipe, someone from Ten Moons met us at the "pier" (floatin
 
 It's hard to really convey just how beautiful it was seeing the crystal blue water and natural coast as we made our way around this tiny island.
 
-\[photo of taking banana boat]
+![chris looking out at clear water on a banana boat](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580422/thailand/IMG_20200125_145648_z3abu1.jpg "Making our way around the island on a small banana boat")
 
 We were immediately impressed by Ten Moons once we arrived. It's a small unassuming collection of bungalows on what we think is the most amazing portion of Koh Lipe's sunset beach. The staff was super friendly and attentive and the owner is a genial Spanish gentleman who makes time to chat with the guests and see how they're doing.
 The bungalows have a rustic feel but still have essential amenities like a standard bathroom and air conditioning and the staff keeps the pitchers of drinking water constantly filled.
@@ -56,7 +57,7 @@ Afterward, we did confirm those types of small jellyfish are sometimes seen in t
 
 After about a week on Koh Lipe, we said goodbye to the sleepy little island and traveled North about 4 hours by ferry up the Thai coast to the island of Koh Lanta to stay at the Pimalai resort. We first heard about Pimalai when our friends Greg and Ro raved about it after their trip to Thailand so we figured we should stop by and spend a few days relaxing there. In stark contrast to Ten Moons, Pimalai is a sprawling resort-style hotel with multiple restaurants, large pools, gym and a spa. You can't get a room right on the beach but it's just a short walk down and still an amazing view.
 
-![people standing around a pile of luggage on a wooden dock](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581117/thailand/MVIMG_20200131_121352_mzo2yq.jpg "This was \\\"baggage claim\\\" when we got off the boat on Koh Lanta")
+![people standing around a pile of luggage on a wooden dock](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581117/thailand/MVIMG_20200131_121352_mzo2yq.jpg "This was \\\\"baggage claim\\\\" when we got off the boat on Koh Lanta")
 
 ![chris looking out at the beach from our balcony](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580351/thailand/IMG_20200131_131719_wkemzz.jpg "A beautiful view of the beach")
 
@@ -103,7 +104,7 @@ Though it's an Airbnb, the villa is owned by a management company that throws in
 
 We also ventured into town several times and checked out the market center and the local vendors and I even found a good barber to get a haircut from. We made a couple of trips to get groceries and even went to the movie theater to see "1917" (highly recommend). We mostly used Grab (a popular ride-sharing service in Asia) to get around but a couple of times we decided to hike down our to get some basic supplies from the convenience store (which we now refer to as conbini's after being in Japan so long and it's fewer syllables anyway) at the bottom of our hill and we would just consider that our workout for the day since a 20-30 minute hike up the steep hill while carrying a few gallons of water is no joke.
 
-![steep paved driveways on a hillside](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602513883/thailand/IMG_3833-COLLAGE_bhjlt4.jpg "The steep \"driveway\" up to our airbnb — it was about the same grade most of the way down")
+![steep paved driveways on a hillside](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602513883/thailand/IMG_3833-COLLAGE_bhjlt4.jpg "The steep \\"driveway\\" up to our airbnb — it was about the same grade most of the way down")
 
 ![luxurious seats in a movie theater](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602513718/thailand/IMG_3941_htl5am.jpg "Even on a small island you can find fancy theater seats in Thailand")
 
