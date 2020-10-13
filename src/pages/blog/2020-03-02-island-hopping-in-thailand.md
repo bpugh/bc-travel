@@ -100,7 +100,9 @@ We spent our time on Koh Samui mostly enjoying daily life. We cooked meals, enjo
 
 Though it's an Airbnb, the villa is owned by a management company that throws in additional benefits like fresh breakfast every morning and scheduling a massage therapist to come by and give an excellent reasonably priced massage with a great view (Chris made ample use of this service).
 
-![](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580036/thailand/6B494A27-5676-4ECD-AC69-C70FCA7FEE82_zyjqh8.jpg)
+![us holding a dip pose in front of the pool](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580036/thailand/6B494A27-5676-4ECD-AC69-C70FCA7FEE82_zyjqh8.jpg "Practicing a new dip pose")
+
+![us in various poses on the edge of the pool](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602621199/thailand/IMG_20200212_141743-COLLAGE_q09gbx.jpg "We had some fun with our tripod and a pool photoshoot...")
 
 We also ventured into town several times and checked out the market center and the local vendors and I even found a good barber to get a haircut from. We made a couple of trips to get groceries and even went to the movie theater to see "1917" (highly recommend). We mostly used Grab (a popular ride-sharing service in Asia) to get around but a couple of times we decided to hike down our to get some basic supplies from the convenience store (which we now refer to as conbini's after being in Japan so long and it's fewer syllables anyway) at the bottom of our hill and we would just consider that our workout for the day since a 20-30 minute hike up the steep hill while carrying a few gallons of water is no joke.
 
@@ -110,6 +112,6 @@ We also ventured into town several times and checked out the market center and t
 
 We of course tried out some tasty local restaurants and had more delicious Thai food including more mango sticky rice 😍. Admittedly we were also missing Japanese food so were pleasantly surprised we even found a nice Japanese restaurant.
 
-![]()
+![me holding up a slice of passion fruit](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1602620525/thailand/IMG_20200210_085306-COLLAGE_w613jc.jpg "Our homemade yellow curry turned out not too bad. Also dragon fruit is my new favorite fruit and it's as common as apples in Thailand")
 
 It was really great opportunity getting to experience such diverse island life.
