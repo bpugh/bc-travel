@@ -24,6 +24,8 @@ Once we landed at Koh Lipe, someone from Ten Moons met us at the "pier" (floatin
 
 It's hard to really convey just how beautiful it was seeing the crystal blue water and natural coast as we made our way around this tiny island.
 
+`video: title: "Making our way around the island" https://res.cloudinary.com/bctravel/video/upload/v1602619049/thailand/banana-boat_p3oce5.mp4`
+
 ![chris looking out at clear water on a banana boat](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580422/thailand/IMG_20200125_145648_z3abu1.jpg "Making our way around the island on a small banana boat")
 
 We were immediately impressed by Ten Moons once we arrived. It's a small unassuming collection of bungalows on what we think is the most amazing portion of Koh Lipe's sunset beach. The staff was super friendly and attentive and the owner is a genial Spanish gentleman who makes time to chat with the guests and see how they're doing.
@@ -57,7 +59,7 @@ Afterward, we did confirm those types of small jellyfish are sometimes seen in t
 
 After about a week on Koh Lipe, we said goodbye to the sleepy little island and traveled North about 4 hours by ferry up the Thai coast to the island of Koh Lanta to stay at the Pimalai resort. We first heard about Pimalai when our friends Greg and Ro raved about it after their trip to Thailand so we figured we should stop by and spend a few days relaxing there. In stark contrast to Ten Moons, Pimalai is a sprawling resort-style hotel with multiple restaurants, large pools, gym and a spa. You can't get a room right on the beach but it's just a short walk down and still an amazing view.
 
-![people standing around a pile of luggage on a wooden dock](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581117/thailand/MVIMG_20200131_121352_mzo2yq.jpg "This was \\\\"baggage claim\\\\" when we got off the boat on Koh Lanta")
+![people standing around a pile of luggage on a wooden dock](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601581117/thailand/MVIMG_20200131_121352_mzo2yq.jpg "This was \"baggage claim\" when we got off the boat on Koh Lanta")
 
 ![chris looking out at the beach from our balcony](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580351/thailand/IMG_20200131_131719_wkemzz.jpg "A beautiful view of the beach")
 
@@ -93,6 +95,8 @@ The next stop on our tour of the islands was Koh Samui. This was definitely the 
 We finally arrived at our Airbnb aptly named "Infinity Villa" since it's a villa high up on a hillside with an infinity pool and an amazing view of the island.
 
 ![chris floating in an infinity pool](https://res.cloudinary.com/bctravel/image/upload/c_scale,f_auto,q_auto,w_1080/v1601580862/thailand/IMG_20200217_124011_oyz2iv.jpg "Chris enjoying her floatie in the airbnb infinity pool")
+
+`video: title: "Me enjoying the floatie" https://res.cloudinary.com/bctravel/video/upload/v1602619051/thailand/pool-dancing_a6iy6r.mp4`
 
 We spent our time on Koh Samui mostly enjoying daily life. We cooked meals, enjoyed the view, floated in the pool, practiced making some dance videos with the awesome background, and even getting massages.
 
