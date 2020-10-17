@@ -6,7 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import EmailListForm from '../components/EmailListForm'
-import { PostPreview } from '../components/PostPreview'
+import FeaturedPosts from '../components/FeaturedPosts'
 
 export const BlogPostTemplate = ({
   content,
@@ -73,8 +73,7 @@ export const BlogPostTemplate = ({
 
             {!isPreview ? (
               <div>
-                <h2>Popular Post</h2>
-                <PostPreview />
+                <FeaturedPosts />
                 <EmailListForm />
               </div>
             ) : null}
