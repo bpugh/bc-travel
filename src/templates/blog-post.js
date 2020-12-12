@@ -6,10 +6,12 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import EmailListForm from '../components/EmailListForm'
+import LikeButton from '../components/LikeButton'
 import FeaturedPosts from '../components/FeaturedPosts'
 
 export const BlogPostTemplate = ({
   content,
+  slug,
   pageContext,
   contentComponent,
   description,
@@ -46,13 +48,18 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>By {author}</p>
-            <p>
-              <small>
-                {date}
-                {timeToRead ? <span>{` • ${timeToRead} min read`}</span> : null}
-              </small>
-            </p>
+            <p style={{ marginBottom: '.5em' }}>By {author}</p>
+            <div className="post-info">
+              <p>
+                <small>
+                  {date}
+                  {timeToRead ? (
+                    <span>{` • ${timeToRead} min read`}</span>
+                  ) : null}
+                </small>
+              </p>
+              <LikeButton slug={slug} />
+            </div>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -104,6 +111,7 @@ const BlogPost = ({ data, pageContext }) => {
     >
       <BlogPostTemplate
         content={post.html}
+        slug={post.fields.slug}
         pageContext={pageContext}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -145,6 +153,9 @@ export const pageQuery = graphql`
         description
         tags
         featuredimage
+      }
+      fields {
+        slug
       }
       timeToRead
     }
