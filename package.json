@@ -16,6 +16,7 @@
   "dependencies": {
     "bulma": "^0.8.0",
     "cloudinary-core": "^2.8.0",
+    "faunadb": "^4.0.0",
     "gatsby": "^2.24.63",
     "gatsby-image": "^2.2.39",
     "gatsby-plugin-feed": "^2.5.11",
