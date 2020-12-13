@@ -17,7 +17,6 @@ exports.handler = async (event) => {
   }
 
   // Check and see if the doc exists.
-  console.log('slug', slug)
   const doesDocExist = await client.query(
     q.Exists(q.Match(q.Index('likes_by_slug'), slug))
   );
