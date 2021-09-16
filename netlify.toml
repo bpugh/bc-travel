@@ -5,3 +5,15 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
+
+[[redirects]]
+  from = "http://wedding.brandonandchris.com/*"
+  to = "https://www.brandonandchris.com/"
+  force = true
+  status = 301
+
+[[redirects]]
+  from = "https://wedding.brandonandchris.com/*"
+  to = "https://www.brandonandchris.com/"
+  force = true
+  status = 301
