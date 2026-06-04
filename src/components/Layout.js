@@ -53,6 +53,11 @@ const TemplateWrapper = ({ children, featuredimage, pageTitle }) => {
             featuredimage ? featuredimage : `${withPrefix('/')}img/og-image.jpg`
           }
         />
+        <script
+          data-goatcounter="https://bctravel.goatcounter.com/count"
+          async
+          src="//gc.zgo.at/count.js"
+        />
       </Helmet>
       <Navbar />
       <div>{children}</div>
